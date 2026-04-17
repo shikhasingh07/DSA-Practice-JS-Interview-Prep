@@ -507,3 +507,101 @@
 ---
 
 *Machine coding tip: Always start by clarifying requirements, then state → render → events → edge cases → polish*
+
+
+# Daily Study Routine
+> Goal: Senior Frontend Developer role in North India (NCR/Gurugram/Noida)
+> Profile: 5 YOE · React · Redux · Three.js · Micro Frontends · Target Corp
+
+---
+
+## Weekdays (Mon–Fri)
+
+| Time | Activity | Duration |
+|------|----------|----------|
+| 7:30 – 9:00 AM | DSA — 2 problems (NeetCode order) | 1.5 hrs |
+| 9:00 – 9:30 AM | Get ready for office | — |
+| 10:00 – 5:30 PM | Office | — |
+| 6:30 – 7:30 PM | UI Concepts — 3-4 questions from topics.md | 1 hr |
+| 7:30 – 8:30 PM | GFE JS Implementation (debounce, curry, Promise, etc.) | 1 hr |
+
+**Total: ~3.5 hrs/day**
+
+---
+
+## Weekends (Sat–Sun)
+
+| Time | Activity | Duration |
+|------|----------|----------|
+| 9:00 – 11:00 AM | DSA — 3-4 problems + REVISION.md | 2 hrs |
+| 11:30 – 1:30 PM | Machine Coding — 1 full component (topics.md M1–M23) | 2 hrs |
+| Lunch break | Rest | — |
+| 3:00 – 4:30 PM | System Design — 1 topic (frontend architecture) | 1.5 hrs |
+| 4:30 – 5:30 PM | Weekly Test — weekly_test.md | 1 hr |
+
+**Total: ~6.5 hrs/day**
+
+---
+
+## Weekly Time Budget
+
+| Topic | Time/week |
+|-------|-----------|
+| DSA | ~10 hrs |
+| UI Concepts | ~5 hrs |
+| JS Implementation | ~5 hrs |
+| Machine Coding | ~2 hrs |
+| System Design | ~1.5 hrs |
+| Revision | ~2 hrs |
+| **Total** | **~25.5 hrs** |
+
+---
+
+## Topic Priority Order
+
+### DSA (NeetCode Roadmap)
+1. Two Pointers ← current
+2. Sliding Window
+3. Binary Search (already partially done)
+4. Stack
+5. Trees (basics only — not deep for UI roles)
+
+### UI Concepts (topics.md)
+- JS Fundamentals first (closures, promises, event loop)
+- Debounce & Throttling ← current
+- React Core + Hooks
+- Performance
+- TypeScript
+
+### JS Implementation (GFE)
+- Debounce / Throttle ← done
+- Promise.all, Promise.race, Promise.any
+- Event Emitter
+- Curry, Pipe, Compose
+- Memoize
+
+### Machine Coding (one per weekend)
+- Start with: Autocomplete (M6) ← most common
+- Then: Toast System (M12), Infinite Scroll (M7), Tabs (M10)
+
+### System Design (one per weekend)
+- Design a Component Library
+- Design Micro Frontend Architecture
+- Design Autocomplete at Scale
+- Design a Real-time Dashboard
+
+---
+
+## Rules
+- Morning DSA = non-negotiable (fresh brain = better problem solving)
+- Skip a day? No guilt — just continue next day, don't try to catch up all at once
+- After 4-5 weeks at this pace → interview ready
+- Always solve before checking solution — hints only!
+
+---
+
+## Target Timeline
+- **Week 1-2:** Two Pointers + Sliding Window + JS Implementations
+- **Week 3-4:** Binary Search + Stack + Machine Coding practice starts
+- **Week 5-6:** Mock interviews + revision + system design
+- **Week 6+:** Start applying actively

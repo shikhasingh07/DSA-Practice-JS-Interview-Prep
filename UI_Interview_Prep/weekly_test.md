@@ -239,3 +239,11 @@ Create files in `UI_Interview_Prep/answers/` as you go:
 ---
 
 *Last updated: April 2026*
+
+
+# useImperativeHandle :- we will using it when from parent component we want to access the child component methods with doing the callback 
+# with this hook remmber to use forwardRef and send proper ref + props
+
+
+# Nested Roots 
+# useImpertiveHandle
