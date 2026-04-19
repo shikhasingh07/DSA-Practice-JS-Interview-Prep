@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./style.css";
+import "../style.css";
 // Vanilla JS task: Build an n x m grid. When a user clicks a cell, highlight the entire row and column in red
 
 const GridHighLight = () => {
