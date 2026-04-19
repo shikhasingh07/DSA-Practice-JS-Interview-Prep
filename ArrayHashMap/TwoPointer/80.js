@@ -1,5 +1,5 @@
 var removeDuplicates = function (nums) {
-  let s = 0,
+  let s = 1,
     f = 1;
 
   while (f <= nums.length - 1) {
