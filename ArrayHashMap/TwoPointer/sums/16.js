@@ -23,5 +23,5 @@ var threeSumClosest = function (nums, target) {
   }
   return closed;
 };
-
-console.log(threeSumClosest());
+let nums = [-1,2,1,-4];
+console.log(threeSumClosest(nums,1));
