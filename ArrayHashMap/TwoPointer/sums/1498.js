@@ -24,3 +24,6 @@ var numSubseq = function (nums, target) {
     }
     return res;
 };
+
+let nums = [3,5,6,7], target = 9;
+console.log(numSubseq(nums,target))
