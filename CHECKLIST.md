@@ -87,7 +87,7 @@
 > Next focus
 
 ### Concepts to learn first
-- [ ] Fixed size window
+- [x] Fixed size window
 - [ ] Variable size window (expand/shrink)
 - [ ] When to use HashMap inside window
 
