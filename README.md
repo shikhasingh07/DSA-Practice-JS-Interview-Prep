@@ -12,13 +12,6 @@
 | Two Pointers | Done ✅ |
 | Sliding Window | Up Next 🎯 |
 | Prefix Sum | Pending |
-| Binary Search | Pending |
-| Strings | Pending |
-| Stack & Queue | Pending |
-| Trees (BFS/DFS) | Pending |
-| Heap / Priority Queue | Pending |
-| Graphs | Pending |
-| Dynamic Programming | Pending |
 
 ---
 
