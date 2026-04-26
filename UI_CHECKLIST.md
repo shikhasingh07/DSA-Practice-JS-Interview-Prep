@@ -9,8 +9,8 @@
 - [x] Promise.all (Medium)
 - [x] Throttle (Medium)
 - [x] Debounce (Medium)
-- [ ] Promise.race (Easy) ← current
-- [ ] Promise.any (Medium)
+- [x] Promise.race (Easy) ← current
+- [x] Promise.any (Medium)
 - [ ] Map Async Limit (Medium)
 - [ ] useTimeout (Medium)
 
@@ -45,7 +45,7 @@
 - [x] useCounter (Easy)
 - [x] useCounter II (Easy)
 - [x] useCycle (Easy)
-- [x] useArray (Medium)
+- [] useArray (Medium)
 - [ ] useMap (Easy)
 - [ ] useSet (Easy)
 
