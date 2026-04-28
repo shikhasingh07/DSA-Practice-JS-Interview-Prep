@@ -1,14 +1,17 @@
-export default function Component() {
-  const { count, increment, decrement, reset, setCount } = useCounter();
+import { useState } from "react";
+export default function useCounter(initialValue = 0) {
+  const [count, setCount] = useState(initialValue);
 
-  return (
-    <div>
-      <p>Counter: {count}</p>
-      <button onClick={increment}>Increment</button>
-      <button onClick={decrement}>Decrement</button>
-      <button onClick={reset}>Reset</button>
-    </div>
-  );
+  const increment = () => {
+    setCount((prev) => prev + 1);
+  };
+
+  const decrement = () => {
+    setCount((prev) => prev - 1);
+  };
+
+  const reset = () => {
+    setCount(initialValue);
+  }
+  return { count, increment, decrement, reset, setCount };
 }
-
-
