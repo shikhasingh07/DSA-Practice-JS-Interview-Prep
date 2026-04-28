@@ -99,11 +99,11 @@
 - [x] 1052. Grumpy Bookstore Owner (Medium)
 - [x] 1456. Maximum Number of Vowels in a Substring of Given Length (Medium)
 - [x] 2461. Maximum Sum of Distinct Subarrays With Length K (Medium)
-- [ ] 1652. Defuse the Bomb (Easy)
+- [x] 1652. Defuse the Bomb (Easy)
 
 ### Variable Size Window — Basic
 - [ ] 3. Longest Substring Without Repeating Characters (Medium)
-- [ ] 1004. Max Consecutive Ones III (Medium)
+- [x] 1004. Max Consecutive Ones III (Medium)
 - [ ] 904. Fruit Into Baskets (Medium)
 - [ ] 1208. Get Equal Substrings Within Budget (Medium)
 - [ ] 209. Minimum Size Subarray Sum (Medium)
