@@ -106,7 +106,7 @@
 - [x] 1004. Max Consecutive Ones III (Medium)
 - [x] 904. Fruit Into Baskets (Medium)
 - [x] 1208. Get Equal Substrings Within Budget (Medium)
-- [ ] 209. Minimum Size Subarray Sum (Medium)
+- [x] 209. Minimum Size Subarray Sum (Medium)
 - [ ] 1658. Minimum Operations to Reduce X to Zero (Medium)
 - [ ] 2090. K Radius Subarray Averages (Medium)
 
