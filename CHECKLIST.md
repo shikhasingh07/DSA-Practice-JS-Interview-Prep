@@ -104,7 +104,7 @@
 ### Variable Size Window — Basic
 - [x] 3. Longest Substring Without Repeating Characters (Medium)
 - [x] 1004. Max Consecutive Ones III (Medium)
-- [ ] 904. Fruit Into Baskets (Medium)
+- [x] 904. Fruit Into Baskets (Medium)
 - [ ] 1208. Get Equal Substrings Within Budget (Medium)
 - [ ] 209. Minimum Size Subarray Sum (Medium)
 - [ ] 1658. Minimum Operations to Reduce X to Zero (Medium)
