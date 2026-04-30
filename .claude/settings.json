@@ -4,7 +4,12 @@
       "Bash(git commit -m ' *)",
       "Bash(git mv *)",
       "Bash(git remote *)",
-      "Bash(grep -E \"\\\\.md$\")"
+      "Bash(grep -E \"\\\\.md$\")",
+      "Bash(mv /Users/shikhasingh/Desktop/daily/DSA/UI_Interview_Prep/JS/Async/* /Users/shikhasingh/Desktop/daily/DSA/UI_Interview_Prep/JS/)",
+      "Bash(mv /Users/shikhasingh/Desktop/daily/DSA/UI_Interview_Prep/JS/Utility/* /Users/shikhasingh/Desktop/daily/DSA/UI_Interview_Prep/JS/)",
+      "Bash(mv /Users/shikhasingh/Desktop/daily/DSA/UI_Interview_Prep/JS/OOP/* /Users/shikhasingh/Desktop/daily/DSA/UI_Interview_Prep/JS/)",
+      "Bash(mv /Users/shikhasingh/Desktop/daily/DSA/UI_Interview_Prep/JS/DOM/* /Users/shikhasingh/Desktop/daily/DSA/UI_Interview_Prep/JS/)",
+      "Bash(mv /Users/shikhasingh/Desktop/daily/DSA/UI_Interview_Prep/BrowserAPIs/* /Users/shikhasingh/Desktop/daily/DSA/UI_Interview_Prep/JS/)"
     ]
   }
 }

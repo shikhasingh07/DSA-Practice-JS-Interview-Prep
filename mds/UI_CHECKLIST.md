@@ -7,34 +7,58 @@
 
 ### Async / Promises
 - [x] Promise.all (Medium)
-- [x] Throttle (Medium)
-- [x] Debounce (Medium)
 - [x] Promise.race (Easy)
 - [x] Promise.any (Medium)
+- [x] Throttle (Medium)
+- [x] Debounce (Medium)
 - [ ] Map Async Limit (Medium)
-- [x] useTimeout (Medium)
 
-### Data Structures / OOP
-- [x] Event Emitter (Medium)
-- [x] Flatten (Medium)
-- [x] Deep Clone (Medium)
-- [x] Deep Equal (Medium)
-- [ ] Deep Omit (Medium)
-- [ ] List Format (Medium)
-
-### Utility Functions
-- [x] Classnames (Medium)
+### Utility / Functional
+- [x] Classnames (Easy)
+- [x] Curry (Medium)
+- [x] Compose (Medium)
+- [x] Chunk (Easy)
+- [x] DropRight (Easy)
+- [x] DropWhile (Easy)
+- [x] Fill (Easy)
+- [x] findIndex (Easy)
+- [x] InRange (Easy)
+- [x] Intersection (Easy)
+- [x] fromPairs (Easy)
+- [x] get (Medium)
+- [x] JSON.stringify (Medium)
+- [x] HTML Serializer (Medium)
 - [x] Type Utilities (Easy)
 - [x] Mean (Easy)
 - [x] Min By (Easy)
 - [x] Make Counter (Easy)
-- [x] Curry (Medium)
-- [x] HTML Serializer (Medium)
-- [x] JSON.stringify (Medium)
-- [x] Function.prototype.call (Easy)
+- [ ] List Format (Medium)
+
+### OOP / Data Structures
+- [x] Event Emitter (Medium)
+- [x] Deep Clone (Medium)
+- [x] Deep Equal (Medium)
+- [x] Flatten (Medium)
+- [x] BackboneModel (Hard)
+- [ ] Deep Omit (Medium)
 
 ### DOM
 - [x] getElementsByStyle (Medium)
+
+---
+
+## Polyfills
+- [x] Function.prototype.call (Easy)
+- [x] Function.prototype.apply (Easy)
+- [x] Function.prototype.bind (Easy)
+- [x] Array.prototype.filter (Easy)
+- [x] Array.prototype.flat (Easy)
+- [x] Array.prototype.reduce (Easy)
+
+---
+
+## Vanilla JS / Browser APIs
+- [x] setCancellableInterval (Medium)
 
 ---
 
@@ -46,12 +70,15 @@
 - [x] useCounter II (Easy)
 - [x] useCycle (Easy)
 - [x] useArray (Medium)
+- [x] useDefault (Easy)
 - [ ] useMap (Easy)
 - [ ] useSet (Easy)
+- [ ] useRenderFirst (Easy)
 
 ### Medium
 - [x] useQuery (Medium)
 - [x] useDebounce (Medium)
+- [x] useTimeout (Medium)
 - [ ] useLocalStorage (Medium)
 - [ ] useClickOutside (Medium)
 - [ ] useInterval (Medium)
