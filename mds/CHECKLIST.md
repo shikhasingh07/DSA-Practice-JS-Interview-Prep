@@ -134,6 +134,81 @@
 
 ---
 
+## Greedy
+
+### Concepts to learn first
+- [ ] Always pick locally optimal choice
+- [ ] Greedy vs DP — when greedy works
+- [ ] Sorting as a greedy strategy
+
+### Easy
+- [ ] 860. Lemonade Change (Easy)
+- [ ] 2706. Buy Two Chocolates (Easy)
+- [ ] 2864. Maximum Odd Binary Number (Easy)
+- [ ] 1827. Minimum Operations to Make the Array Increasing (Easy)
+
+### Medium — Classic Greedy
+- [ ] 55. Jump Game (Medium) ⭐
+- [ ] 45. Jump Game II (Medium) ⭐
+- [ ] 134. Gas Station (Medium) ⭐
+- [ ] 53. Maximum Subarray / Kadane's (Medium) ⭐
+- [ ] 763. Partition Labels (Medium) ⭐
+- [ ] 435. Non-overlapping Intervals (Medium) ⭐
+- [ ] 452. Minimum Number of Arrows to Burst Balloons (Medium) ⭐
+- [ ] 846. Hand of Straights (Medium)
+- [ ] 1029. Two City Scheduling (Medium)
+- [ ] 406. Queue Reconstruction by Height (Medium) ⭐ Google
+- [ ] 621. Task Scheduler (Medium) ⭐ Amazon, Facebook
+- [ ] 1899. Merge Triplets to Form Target Triplet (Medium)
+- [ ] 1710. Maximum Units on a Truck (Medium)
+- [ ] 2554. Maximum Number of Integers to Choose From a Range I (Medium)
+
+### Medium — String Greedy
+- [ ] 1647. Minimum Deletions to Make Character Frequencies Unique (Medium)
+- [ ] 1653. Minimum Deletions to Make String Balanced (Medium)
+- [ ] 2423. Remove Letter To Equalize Frequency (Easy)
+- [ ] 1717. Maximum Score From Removing Substrings (Medium)
+
+### Hard
+- [ ] 135. Candy (Hard) ⭐
+- [ ] 502. IPO (Hard)
+- [ ] 630. Course Schedule III (Hard)
+- [ ] 1326. Minimum Number of Taps to Open to Water a Garden (Hard)
+
+---
+## Math Concepts to Study
+
+### Number Theory
+- [ ] GCD / LCM (Euclidean algorithm)
+- [ ] Prime numbers & Sieve of Eratosthenes
+- [ ] Modular arithmetic (`% n`, large number problems)
+- [ ] Factorial (n!)
+- [ ] Power/Exponentiation (fast power `x^n`)
+- [ ] Divisors & multiples
+
+### Combinatorics
+- [ ] Permutation (nPr) — ordered arrangements
+- [ ] Combination (nCr) — unordered selection
+- [ ] Pascal's Triangle
+- [ ] Pigeonhole Principle
+
+### Bit Manipulation
+- [ ] AND, OR, XOR, NOT
+- [ ] Left/right shifts (`<<`, `>>`)
+- [ ] Common tricks (check odd/even, swap, count set bits)
+
+### Geometry (rare but asked)
+- [ ] Distance formula
+- [ ] Slope / collinear points
+- [ ] Area of triangle / polygon
+
+### Miscellaneous
+- [ ] Logarithms (complexity analysis)
+- [ ] Probability basics
+- [ ] Matrix multiplication
+- [ ] Prefix products / suffix products
+
+----
 ## Prefix Sum
 
 ### Concepts to learn first
@@ -232,3 +307,4 @@
 ### Hard
 - [ ] 10. Regular Expression Matching (Hard)
 - [ ] 44. Wildcard Matching (Hard)
+
