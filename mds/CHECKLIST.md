@@ -115,7 +115,7 @@
 - [x] 713. Subarray Product Less Than K (Medium)
 - [x] 930. Binary Subarrays with Sum (Medium)
 - [x] 1358. Number of Substrings Containing All Three Characters (Medium)
-- [ ] 2024. Maximize the Confusion of an Exam (Medium)
+- [x] 2024. Maximize the Confusion of an Exam (Medium)
 - [ ] 992. Subarrays with K Different Integers (Hard)
 - [ ] 340. Longest Substring with At Most K Distinct Characters (Medium) ⭐ Google, Amazon
 - [ ] 1838. Frequency of the Most Frequent Element (Medium) ⭐ Amazon
