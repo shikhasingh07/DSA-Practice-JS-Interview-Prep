@@ -40,7 +40,8 @@ DSA/
 ├── SlidingWindow/        # Fixed & variable size window problems
 │   ├── fixed/
 │   ├── variable/
-│   └── hash/
+│   ├── hash/
+│   └── atMost/           # atMost(k) - atMost(k-1) pattern problems
 ├── mds/                  # Notes, checklists, revision tracker
 │   ├── CHECKLIST.md
 │   ├── UI_CHECKLIST.md
