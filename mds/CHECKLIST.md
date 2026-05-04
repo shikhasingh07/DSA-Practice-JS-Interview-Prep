@@ -118,7 +118,7 @@
 - [x] 2024. Maximize the Confusion of an Exam (Medium)
 - [x] 992. Subarrays with K Different Integers (Hard)
 - [x] 340. Longest Substring with At Most K Distinct Characters (Medium) ⭐ Google, Amazon
-- [ ] 1838. Frequency of the Most Frequent Element (Medium) ⭐ Amazon
+- [x] 1838. Frequency of the Most Frequent Element (Medium) ⭐ Amazon
 - [ ] 1423. Maximum Points You Can Obtain from Cards (Medium) ⭐ Google
 - [ ] 395. Longest Substring with At Least K Repeating Characters (Medium) ⭐ Amazon, Google
 - [ ] 2134. Minimum Swaps to Group All 1's Together II (Medium) ⭐ Amazon
