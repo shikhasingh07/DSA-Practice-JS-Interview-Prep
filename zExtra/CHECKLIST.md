@@ -121,8 +121,8 @@
 - [x] 1838. Frequency of the Most Frequent Element (Medium) ⭐ Amazon
 - [x] 1423. Maximum Points You Can Obtain from Cards (Medium) ⭐ Google
 - [x] 395. Longest Substring with At Least K Repeating Characters (Medium) ⭐ Amazon, Google
-- [ ] 2134. Minimum Swaps to Group All 1's Together II (Medium) ⭐ Amazon
-- [ ] 2653. Sliding Subarray Beauty (Medium) ⭐ Meta
+- [x] 2134. Minimum Swaps to Group All 1's Together II (Medium) ⭐ Amazon
+- [x] 2653. Sliding Subarray Beauty (Medium) ⭐ Meta
 
 ### Hard
 - [ ] 76. Minimum Window Substring (Hard)
