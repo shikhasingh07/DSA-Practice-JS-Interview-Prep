@@ -1,7 +1,7 @@
 function promisify(func) {
-  return (...args) => {
+  return function(...args){
     return new Promise((res, rej) => {
-      func(...args, (err, value) => {
+      func.call(this, ...args, (err, value) => {
         if (err) rej(err);
         else res(value);
       });
