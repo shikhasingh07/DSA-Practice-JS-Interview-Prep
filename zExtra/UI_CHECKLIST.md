@@ -11,6 +11,8 @@
 - [x] Promise.any (Medium)
 - [x] Throttle (Medium)
 - [x] Debounce (Medium)
+- [x] Promisify (Medium)
+- [x] Promisify II (Medium)
 - [ ] Map Async Limit (Medium)
 
 ### Utility / Functional
