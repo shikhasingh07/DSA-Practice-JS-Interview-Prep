@@ -126,8 +126,8 @@
 
 ### Hard
 - [x] 76. Minimum Window Substring (Hard)
-- [ ] 239. Sliding Window Maximum (Hard)
-- [ ] 1425. Constrained Subsequence Sum (Hard)
+- [x] 239. Sliding Window Maximum (Hard)
+- [x] 1425. Constrained Subsequence Sum (Hard)
 
 ---
 ## Greedy
