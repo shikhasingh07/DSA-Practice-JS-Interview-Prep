@@ -140,10 +140,10 @@
 - [ ] Stack ↔ Queue (implement one using other)
 
 ### Easy
-- [ ] 20. Valid Parentheses (Easy)
-- [ ] 682. Baseball Game (Easy)
-- [ ] 225. Implement Stack Using Queues (Easy)
-- [ ] 232. Implement Queue using Stacks (Easy)
+- [x] 20. Valid Parentheses (Easy)
+- [x] 682. Baseball Game (Easy)
+- [x] 225. Implement Stack Using Queues (Easy)
+- [x] 232. Implement Queue using Stacks (Easy)
 
 ### Medium
 - [ ] 155. Min Stack (Medium)
