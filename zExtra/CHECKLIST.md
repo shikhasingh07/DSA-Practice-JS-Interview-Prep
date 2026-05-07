@@ -146,7 +146,7 @@
 - [x] 232. Implement Queue using Stacks (Easy)
 
 ### Medium
-- [ ] 155. Min Stack (Medium)
+- [x] 155. Min Stack (Medium)
 - [ ] 150. Evaluate Reverse Polish Notation (Medium)
 - [ ] 735. Asteroid Collision (Medium)
 - [ ] 739. Daily Temperatures (Medium) ⭐ Monotonic
