@@ -12,7 +12,8 @@
 |-------|:----:|--------|
 | Arrays & HashMap | 14 | ✅ Done |
 | Two Pointers | 40+ | ✅ Done |
-| Sliding Window | 21 | 🔄 In Progress |
+| Sliding Window | 28 | ✅ Done |
+| Stack | 0 | 🔄 In Progress |
 | Greedy | 0 | 🔜 Next |
 | Prefix Sum | 0 | 🔜 Next |
 | Binary Search | 0 | 🔜 Next |

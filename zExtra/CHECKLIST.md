@@ -130,6 +130,38 @@
 - [x] 1425. Constrained Subsequence Sum (Hard)
 
 ---
+## Stack
+
+### Concepts to learn first
+- [ ] LIFO — push/pop/peek basics
+- [ ] Bracket matching pattern
+- [ ] Min/Max Stack (O(1) tracking)
+- [ ] Monotonic Stack (increasing/decreasing)
+- [ ] Stack ↔ Queue (implement one using other)
+
+### Easy
+- [ ] 20. Valid Parentheses (Easy)
+- [ ] 682. Baseball Game (Easy)
+- [ ] 225. Implement Stack Using Queues (Easy)
+- [ ] 232. Implement Queue using Stacks (Easy)
+
+### Medium
+- [ ] 155. Min Stack (Medium)
+- [ ] 150. Evaluate Reverse Polish Notation (Medium)
+- [ ] 735. Asteroid Collision (Medium)
+- [ ] 739. Daily Temperatures (Medium) ⭐ Monotonic
+- [ ] 901. Online Stock Span (Medium) ⭐ Monotonic
+- [ ] 853. Car Fleet (Medium)
+- [ ] 394. Decode String (Medium)
+- [ ] 402. Remove K Digits (Medium)
+- [ ] 907. Sum of Subarray Minimums (Medium) ⭐
+- [ ] 856. Basic Calculator II (Medium)
+
+### Hard
+- [ ] 84. Largest Rectangle in Histogram (Hard) ⭐
+- [ ] 2751. Robot Collisions (Hard)
+
+---
 ## Greedy
 
 ### Concepts to learn first
