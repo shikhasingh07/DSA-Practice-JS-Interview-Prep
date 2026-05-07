@@ -43,6 +43,9 @@
 - [x] Flatten (Medium)
 - [x] BackboneModel (Hard)
 - [x] Deep Omit (Medium)
+- [x] Memoize (Medium)
+- [x] Squash Object (Medium)
+- [x] Unsquash Object (Medium)
 
 ### DOM
 - [x] getElementsByStyle (Medium)
