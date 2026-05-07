@@ -8,7 +8,7 @@ var evalRPN = function (tokens) {
   };
 
   for (const token of tokens) {
-    if (ops.has(token)) {
+    if (ops[token]) {
       const b = stack.pop();
       const a = stack.pop();
       let t = ops[token](a, b);
