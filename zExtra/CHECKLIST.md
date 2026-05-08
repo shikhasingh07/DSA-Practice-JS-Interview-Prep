@@ -133,11 +133,11 @@
 ## Stack
 
 ### Concepts to learn first
-- [ ] LIFO — push/pop/peek basics
-- [ ] Bracket matching pattern
-- [ ] Min/Max Stack (O(1) tracking)
-- [ ] Monotonic Stack (increasing/decreasing)
-- [ ] Stack ↔ Queue (implement one using other)
+- [x] LIFO — push/pop/peek basics
+- [x] Bracket matching pattern
+- [x] Min/Max Stack (O(1) tracking)
+- [x] Monotonic Stack (increasing/decreasing)
+- [x] Stack ↔ Queue (implement one using other)
 
 ### Easy
 - [x] 20. Valid Parentheses (Easy)
@@ -147,7 +147,7 @@
 
 ### Medium
 - [x] 155. Min Stack (Medium)
-- [ ] 150. Evaluate Reverse Polish Notation (Medium)
+- [x] 150. Evaluate Reverse Polish Notation (Medium)
 - [ ] 735. Asteroid Collision (Medium)
 - [ ] 739. Daily Temperatures (Medium) ⭐ Monotonic
 - [ ] 901. Online Stock Span (Medium) ⭐ Monotonic
