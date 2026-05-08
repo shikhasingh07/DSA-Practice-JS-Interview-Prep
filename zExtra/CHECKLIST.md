@@ -148,8 +148,8 @@
 ### Medium
 - [x] 155. Min Stack (Medium)
 - [x] 150. Evaluate Reverse Polish Notation (Medium)
-- [ ] 735. Asteroid Collision (Medium)
-- [ ] 739. Daily Temperatures (Medium) ⭐ Monotonic
+- [x] 735. Asteroid Collision (Medium)
+- [x] 739. Daily Temperatures (Medium) ⭐ Monotonic
 - [ ] 901. Online Stock Span (Medium) ⭐ Monotonic
 - [ ] 853. Car Fleet (Medium)
 - [ ] 394. Decode String (Medium)
