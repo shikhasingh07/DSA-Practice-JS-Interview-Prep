@@ -50,6 +50,7 @@
 ### DOM
 - [x] getElementsByStyle (Medium)
 - [x] jQuery.css (Easy)
+- [x] getElementsByClassName (Medium)
 
 ---
 
