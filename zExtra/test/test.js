@@ -63,7 +63,7 @@
 //     rightMax[j] = Math.max(rightMax[j + 1], arr[j]);
 //   }
 
-//   let max = 0; 
+//   let max = 0;
 //   for(let i = 0; i < n; i++){
 //     max += Math.min(leftMax[i] , rightMax[i]) - arr[i];
 //   }
@@ -72,3 +72,48 @@
 // };
 // let arr = [0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1];
 // console.log(tapping(arr));
+
+// var scoreValidator = function (events) {
+//   let ans = [];
+//   let score = 0;
+//   let counter = 0;
+//   for (let item of events) {
+//     if (counter === 10) break;
+//     if (!isNaN(item)) {
+//       score += Number(item);
+//     } else if (item === "W") {
+//       counter++;
+//     } else {
+//       score += 1;
+//     }
+//   }
+
+//   return [score, counter];
+// };
+// let events = ["1", "4", "W", "6", "WD"];
+// console.log(scoreValidator(events));
+
+// var minFlips = function (s) {
+//   let zero = 0;
+//   let one = 0;
+
+//   for (let item of s) {
+//     if (item === "0") {
+//       zero++;
+//     } else {
+//       one++;
+//     }
+//   }
+//   const n = s.length;
+//   const onesInMiddle =
+//     one - (s[0] === "1" ? 1 : 0) - (s[n - 1] === "1" ? 1 : 0);
+//   const cost_D =
+//     n >= 3
+//       ? (s[0] !== "1" ? 1 : 0) + (s[n - 1] !== "1" ? 1 : 0) + onesInMiddle
+//       : Infinity;
+//   return Math.min(one, zero, one > 0 ? one - 1 : 0, cost_D);
+// };
+
+// let s = "101";
+// console.log(minFlips(s));
+
