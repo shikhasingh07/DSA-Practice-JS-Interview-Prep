@@ -7,12 +7,12 @@ var decodeString = function (s) {
   for (let item of s) {
     if (!isNaN(item)) {
       count = count * 10 + Number(item);
-    } else if (char === "[") {
+    } else if (item === "[") {
       countStack.push(count);
       strStack.push(current);
       count = 0;
       current = "";
-    } else if (char === "]") {
+    } else if (item === "]") {
       const cnt = countStack.pop();
       const prev = strStack.pop();
       current = prev + current.repeat(cnt);

@@ -152,7 +152,7 @@
 - [x] 739. Daily Temperatures (Medium) ⭐ Monotonic
 - [x] 901. Online Stock Span (Medium) ⭐ Monotonic
 - [x] 853. Car Fleet (Medium)
-- [ ] 394. Decode String (Medium)
+- [x] 394. Decode String (Medium)
 - [ ] 402. Remove K Digits (Medium)
 - [ ] 907. Sum of Subarray Minimums (Medium) ⭐
 - [ ] 856. Basic Calculator II (Medium)
