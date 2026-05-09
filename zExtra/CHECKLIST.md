@@ -150,7 +150,7 @@
 - [x] 150. Evaluate Reverse Polish Notation (Medium)
 - [x] 735. Asteroid Collision (Medium)
 - [x] 739. Daily Temperatures (Medium) ⭐ Monotonic
-- [ ] 901. Online Stock Span (Medium) ⭐ Monotonic
+- [x] 901. Online Stock Span (Medium) ⭐ Monotonic
 - [ ] 853. Car Fleet (Medium)
 - [ ] 394. Decode String (Medium)
 - [ ] 402. Remove K Digits (Medium)
