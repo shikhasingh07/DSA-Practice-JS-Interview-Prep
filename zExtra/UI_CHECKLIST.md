@@ -103,7 +103,7 @@
 - [ ] Progress Bar
 
 ### Medium
-- [ ] Todo List
+- [x] Todo List
 - [ ] Infinite Scroll
 - [ ] Typeahead / Autocomplete
 - [ ] Image Carousel
