@@ -158,7 +158,7 @@
 - [x] 856. Basic Calculator II (Medium)
 
 ### Hard
-- [ ] 84. Largest Rectangle in Histogram (Hard) ⭐
+- [x] 84. Largest Rectangle in Histogram (Hard) ⭐
 - [ ] 2751. Robot Collisions (Hard)
 
 ---
