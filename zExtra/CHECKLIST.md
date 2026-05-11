@@ -155,7 +155,7 @@
 - [x] 394. Decode String (Medium)
 - [x] 402. Remove K Digits (Medium)
 - [ ] 907. Sum of Subarray Minimums (Medium) ⭐
-- [ ] 856. Basic Calculator II (Medium)
+- [x] 856. Basic Calculator II (Medium)
 
 ### Hard
 - [ ] 84. Largest Rectangle in Histogram (Hard) ⭐

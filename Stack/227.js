@@ -30,5 +30,6 @@ var calculate = function (s) {
   return result;
 };
 
-let s = "3+2*2";
-console.log(calculate(s));
+console.log(calculate("3+2*2"));   // 7
+console.log(calculate("3/2"));     // 1
+console.log(calculate("3+5/2"));   // 5
