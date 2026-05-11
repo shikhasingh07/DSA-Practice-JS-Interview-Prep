@@ -159,7 +159,7 @@
 
 ### Hard
 - [x] 84. Largest Rectangle in Histogram (Hard) ⭐
-- [ ] 2751. Robot Collisions (Hard)
+- [x] 2751. Robot Collisions (Hard)
 
 ---
 ## Greedy
