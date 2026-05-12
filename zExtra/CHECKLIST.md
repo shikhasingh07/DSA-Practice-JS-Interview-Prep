@@ -171,8 +171,8 @@
 
 ### Easy
 - [x] 860. Lemonade Change (Easy)
-- [ ] 2706. Buy Two Chocolates (Easy)
-- [ ] 2864. Maximum Odd Binary Number (Easy)
+- [x] 2706. Buy Two Chocolates (Easy)
+- [x] 2864. Maximum Odd Binary Number (Easy)
 - [ ] 1827. Minimum Operations to Make the Array Increasing (Easy)
 
 ### Medium — Classic Greedy
