@@ -166,17 +166,17 @@
 
 ### Concepts to learn first
 - [x] Always pick locally optimal choice
-- [ ] Greedy vs DP — when greedy works
-- [ ] Sorting as a greedy strategy
+- [x] Greedy vs DP — when greedy works
+- [x] Sorting as a greedy strategy
 
 ### Easy
 - [x] 860. Lemonade Change (Easy)
 - [x] 2706. Buy Two Chocolates (Easy)
 - [x] 2864. Maximum Odd Binary Number (Easy)
-- [ ] 1827. Minimum Operations to Make the Array Increasing (Easy)
+- [x] 1827. Minimum Operations to Make the Array Increasing (Easy)
 
 ### Medium — Classic Greedy
-- [ ] 55. Jump Game (Medium) ⭐
+- [x] 55. Jump Game (Medium) ⭐
 - [ ] 45. Jump Game II (Medium) ⭐
 - [ ] 134. Gas Station (Medium) ⭐
 - [ ] 53. Maximum Subarray / Kadane's (Medium) ⭐
