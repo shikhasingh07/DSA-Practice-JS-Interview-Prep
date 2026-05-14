@@ -178,7 +178,7 @@
 ### Medium — Classic Greedy
 - [x] 55. Jump Game (Medium) ⭐
 - [x] 45. Jump Game II (Medium) ⭐
-- [ ] 134. Gas Station (Medium) ⭐
+- [x] 134. Gas Station (Medium) ⭐
 - [ ] 53. Maximum Subarray / Kadane's (Medium) ⭐
 - [ ] 763. Partition Labels (Medium) ⭐
 - [ ] 435. Non-overlapping Intervals (Medium) ⭐
