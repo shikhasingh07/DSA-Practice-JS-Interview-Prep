@@ -180,7 +180,7 @@
 - [x] 45. Jump Game II (Medium) ⭐
 - [x] 134. Gas Station (Medium) ⭐
 - [x] 53. Maximum Subarray / Kadane's (Medium) ⭐
-- [ ] 763. Partition Labels (Medium) ⭐
+- [x] 763. Partition Labels (Medium) ⭐
 - [ ] 435. Non-overlapping Intervals (Medium) ⭐
 - [ ] 452. Minimum Number of Arrows to Burst Balloons (Medium) ⭐
 - [ ] 846. Hand of Straights (Medium)
