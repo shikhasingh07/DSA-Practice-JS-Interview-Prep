@@ -182,7 +182,7 @@
 - [x] 53. Maximum Subarray / Kadane's (Medium) ⭐
 - [x] 763. Partition Labels (Medium) ⭐
 - [x] 435. Non-overlapping Intervals (Medium) ⭐
-- [ ] 452. Minimum Number of Arrows to Burst Balloons (Medium) ⭐
+- [x] 452. Minimum Number of Arrows to Burst Balloons (Medium) ⭐
 - [ ] 846. Hand of Straights (Medium)
 - [ ] 1029. Two City Scheduling (Medium)
 - [ ] 406. Queue Reconstruction by Height (Medium) ⭐ Google
