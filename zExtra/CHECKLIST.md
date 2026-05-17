@@ -183,9 +183,9 @@
 - [x] 763. Partition Labels (Medium) ⭐
 - [x] 435. Non-overlapping Intervals (Medium) ⭐
 - [x] 452. Minimum Number of Arrows to Burst Balloons (Medium) ⭐
-- [ ] 846. Hand of Straights (Medium)
-- [ ] 1029. Two City Scheduling (Medium)
-- [ ] 406. Queue Reconstruction by Height (Medium) ⭐ Google
+- [x] 846. Hand of Straights (Medium)
+- [x] 1029. Two City Scheduling (Medium)
+- [x] 406. Queue Reconstruction by Height (Medium) ⭐ Google
 - [ ] 621. Task Scheduler (Medium) ⭐ Amazon, Facebook
 - [ ] 1899. Merge Triplets to Form Target Triplet (Medium)
 - [ ] 1710. Maximum Units on a Truck (Medium)
