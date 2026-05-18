@@ -187,7 +187,7 @@
 - [x] 1029. Two City Scheduling (Medium)
 - [x] 406. Queue Reconstruction by Height (Medium) ⭐ Google
 - [x] 621. Task Scheduler (Medium) ⭐ Amazon, Facebook
-- [ ] 1899. Merge Triplets to Form Target Triplet (Medium)
+- [x] 1899. Merge Triplets to Form Target Triplet (Medium)
 - [ ] 1710. Maximum Units on a Truck (Medium)
 - [ ] 2554. Maximum Number of Integers to Choose From a Range I (Medium)
 
