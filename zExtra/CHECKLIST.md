@@ -189,7 +189,7 @@
 - [x] 621. Task Scheduler (Medium) ⭐ Amazon, Facebook
 - [x] 1899. Merge Triplets to Form Target Triplet (Medium)
 - [x] 1710. Maximum Units on a Truck (Medium)
-- [ ] 2554. Maximum Number of Integers to Choose From a Range I (Medium)
+- [x] 2554. Maximum Number of Integers to Choose From a Range I (Medium)
 
 ### Medium — String Greedy
 - [ ] 1647. Minimum Deletions to Make Character Frequencies Unique (Medium)

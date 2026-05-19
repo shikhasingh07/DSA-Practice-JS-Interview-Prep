@@ -50,3 +50,13 @@ function dropRightWhile(array, predicate) {
 
   return array.slice(0, index + 1);
 }
+
+const dropWhile = (array, prec) => {
+  let len = 0;
+
+  while (len < array.length && prec(array[len], len, array)) {
+    len++;
+  }
+
+  return array.slice(len);
+};
