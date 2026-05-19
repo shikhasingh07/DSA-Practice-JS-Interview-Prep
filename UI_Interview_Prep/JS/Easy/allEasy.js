@@ -28,7 +28,18 @@ Array.prototype.square = function () {
 };
 
 function setCancellableTimeout(callback, delay, ...args) {
-  let timer = null; 
-  timer = setTimeout(() => callback(...args),delay);
+  let timer = null;
+  timer = setTimeout(() => callback(...args), delay);
   return () => clearTimeout(timer);
 }
+
+function chunk(array, size = 1) {
+  let ans  = []; 
+  for (let i = 0; i < array.length; i+=size) {
+    ans.push(array.slice(i, i + size));
+  }
+  return ans;
+}
+
+console.log(chunk(['a', 'b', 'c', 'd']))
+console.log(chunk([1, 2, 3, 4], 2))
