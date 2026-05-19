@@ -41,5 +41,12 @@ function chunk(array, size = 1) {
   return ans;
 }
 
-console.log(chunk(['a', 'b', 'c', 'd']))
-console.log(chunk([1, 2, 3, 4], 2))
+function dropRightWhile(array, predicate) {
+ let index = array.length - 1;
+
+  while (index >= 0 && predicate(array[index], index, array)) {
+    index--;
+  }
+
+  return array.slice(0, index + 1);
+}
