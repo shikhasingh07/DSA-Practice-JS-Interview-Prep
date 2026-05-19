@@ -26,3 +26,9 @@ Array.prototype.square = function () {
   let ans = this;
   return ans.map((item) => item * item);
 };
+
+function setCancellableTimeout(callback, delay, ...args) {
+  let timer = null; 
+  timer = setTimeout(() => callback(...args),delay);
+  return () => clearTimeout(timer);
+}
