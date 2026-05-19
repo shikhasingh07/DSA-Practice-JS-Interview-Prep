@@ -18,7 +18,11 @@ function numberOfArguments(...arg) {
 
 function sleep(duration) {
   return new Promise((res, rej) => {
-    setTimeout(() =>     res(), duration);
-  })
+    setTimeout(() => res(), duration);
+  });
 }
 
+Array.prototype.square = function () {
+  let ans = this;
+  return ans.map((item) => item * item);
+};
