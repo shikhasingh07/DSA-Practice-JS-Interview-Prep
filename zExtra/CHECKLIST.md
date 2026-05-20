@@ -192,8 +192,8 @@
 - [x] 2554. Maximum Number of Integers to Choose From a Range I (Medium)
 
 ### Medium — String Greedy
-- [ ] 1647. Minimum Deletions to Make Character Frequencies Unique (Medium)
-- [ ] 1653. Minimum Deletions to Make String Balanced (Medium)
+- [x] 1647. Minimum Deletions to Make Character Frequencies Unique (Medium)
+- [x] 1653. Minimum Deletions to Make String Balanced (Medium)
 - [ ] 2423. Remove Letter To Equalize Frequency (Easy)
 - [ ] 1717. Maximum Score From Removing Substrings (Medium)
 
