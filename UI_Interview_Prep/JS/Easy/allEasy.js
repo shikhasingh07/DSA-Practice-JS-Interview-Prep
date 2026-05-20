@@ -60,3 +60,24 @@ const dropWhile = (array, prec) => {
 
   return array.slice(len);
 };
+
+function compact(array) {
+ let map = array.filter(Boolean);
+ return map;
+}
+
+function difference(array, values) {
+  return array.filter(item => !values.includes(item))
+}
+
+function fill(array, value, start = 0, end = array.length) {
+  if (start < 0) start = Math.max(0, array.length + start);
+if (end < 0) end = Math.max(0, array.length + end);
+start = Math.min(start, array.length);
+end = Math.min(end, array.length);
+
+  for(let i = start ; i < end ; i++){
+    array[i] = value;
+  }
+  return array;
+}
