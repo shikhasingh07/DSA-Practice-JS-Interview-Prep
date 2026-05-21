@@ -195,10 +195,10 @@
 - [x] 1647. Minimum Deletions to Make Character Frequencies Unique (Medium)
 - [x] 1653. Minimum Deletions to Make String Balanced (Medium)
 - [x] 2423. Remove Letter To Equalize Frequency (Easy)
-- [ ] 1717. Maximum Score From Removing Substrings (Medium)
+- [x] 1717. Maximum Score From Removing Substrings (Medium)
 
 ### Hard
-- [ ] 135. Candy (Hard) ⭐
+- [x] 135. Candy (Hard) ⭐
 - [ ] 502. IPO (Hard)
 - [ ] 630. Course Schedule III (Hard)
 - [ ] 1326. Minimum Number of Taps to Open to Water a Garden (Hard)
