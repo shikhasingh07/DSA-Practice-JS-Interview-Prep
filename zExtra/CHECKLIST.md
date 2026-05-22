@@ -200,7 +200,7 @@
 ### Hard
 - [x] 135. Candy (Hard) ⭐
 - [x] 502. IPO (Hard)
-- [ ] 630. Course Schedule III (Hard)
+- [x] 630. Course Schedule III (Hard)
 - [ ] 1326. Minimum Number of Taps to Open to Water a Garden (Hard)
 
 ---
