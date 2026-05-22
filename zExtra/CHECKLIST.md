@@ -204,49 +204,16 @@
 - [ ] 1326. Minimum Number of Taps to Open to Water a Garden (Hard)
 
 ---
-## Math Concepts to Study
-
-### Number Theory
-- [ ] GCD / LCM (Euclidean algorithm)
-- [ ] Prime numbers & Sieve of Eratosthenes
-- [ ] Modular arithmetic (`% n`, large number problems)
-- [ ] Factorial (n!)
-- [ ] Power/Exponentiation (fast power `x^n`)
-- [ ] Divisors & multiples
-
-### Combinatorics
-- [ ] Permutation (nPr) — ordered arrangements
-- [ ] Combination (nCr) — unordered selection
-- [ ] Pascal's Triangle
-- [ ] Pigeonhole Principle
-
-### Bit Manipulation
-- [ ] AND, OR, XOR, NOT
-- [ ] Left/right shifts (`<<`, `>>`)
-- [ ] Common tricks (check odd/even, swap, count set bits)
-
-### Geometry (rare but asked)
-- [ ] Distance formula
-- [ ] Slope / collinear points
-- [ ] Area of triangle / polygon
-
-### Miscellaneous
-- [ ] Logarithms (complexity analysis)
-- [ ] Probability basics
-- [ ] Matrix multiplication
-- [ ] Prefix products / suffix products
-
-----
 ## Prefix Sum
 
 ### Concepts to learn first
-- [ ] 1D prefix sum array
+- [x] 1D prefix sum array
 - [ ] 2D prefix sum matrix
 - [ ] Prefix sum + HashMap trick
 
 ### Easy
-- [ ] 1480. Running Sum of 1D Array (Easy)
-- [ ] 303. Range Sum Query - Immutable (Easy)
+- [x] 1480. Running Sum of 1D Array (Easy)
+- [x] 303. Range Sum Query - Immutable (Easy)
 - [ ] 1732. Find the Highest Altitude (Easy)
 - [ ] 724. Find Pivot Index (Easy)
 
@@ -334,3 +301,36 @@
 - [ ] 10. Regular Expression Matching (Hard)
 - [ ] 44. Wildcard Matching (Hard)
 
+## Math Concepts to Study
+
+### Number Theory
+- [ ] GCD / LCM (Euclidean algorithm)
+- [ ] Prime numbers & Sieve of Eratosthenes
+- [ ] Modular arithmetic (`% n`, large number problems)
+- [ ] Factorial (n!)
+- [ ] Power/Exponentiation (fast power `x^n`)
+- [ ] Divisors & multiples
+
+### Combinatorics
+- [ ] Permutation (nPr) — ordered arrangements
+- [ ] Combination (nCr) — unordered selection
+- [ ] Pascal's Triangle
+- [ ] Pigeonhole Principle
+
+### Bit Manipulation
+- [ ] AND, OR, XOR, NOT
+- [ ] Left/right shifts (`<<`, `>>`)
+- [ ] Common tricks (check odd/even, swap, count set bits)
+
+### Geometry (rare but asked)
+- [ ] Distance formula
+- [ ] Slope / collinear points
+- [ ] Area of triangle / polygon
+
+### Miscellaneous
+- [ ] Logarithms (complexity analysis)
+- [ ] Probability basics
+- [ ] Matrix multiplication
+- [ ] Prefix products / suffix products
+
+----
