@@ -215,7 +215,7 @@
 - [x] 1480. Running Sum of 1D Array (Easy)
 - [x] 303. Range Sum Query - Immutable (Easy)
 - [x] 1732. Find the Highest Altitude (Easy)
-- [ ] 724. Find Pivot Index (Easy)
+- [x] 724. Find Pivot Index (Easy)
 
 ### Medium
 - [ ] 238. Product of Array Except Self (Medium)
