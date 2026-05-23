@@ -218,7 +218,7 @@
 - [x] 724. Find Pivot Index (Easy)
 
 ### Medium
-- [ ] 238. Product of Array Except Self (Medium)
+- [x] 238. Product of Array Except Self (Medium)
 - [ ] 523. Continuous Subarray Sum (Medium)
 - [ ] 525. Contiguous Array (Medium)
 - [ ] 974. Subarray Sums Divisible by K (Medium)
