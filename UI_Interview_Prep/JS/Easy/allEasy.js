@@ -34,15 +34,15 @@ function setCancellableTimeout(callback, delay, ...args) {
 }
 
 function chunk(array, size = 1) {
-  let ans  = []; 
-  for (let i = 0; i < array.length; i+=size) {
+  let ans = [];
+  for (let i = 0; i < array.length; i += size) {
     ans.push(array.slice(i, i + size));
   }
   return ans;
 }
 
 function dropRightWhile(array, predicate) {
- let index = array.length - 1;
+  let index = array.length - 1;
 
   while (index >= 0 && predicate(array[index], index, array)) {
     index--;
@@ -62,22 +62,35 @@ const dropWhile = (array, prec) => {
 };
 
 function compact(array) {
- let map = array.filter(Boolean);
- return map;
+  let map = array.filter(Boolean);
+  return map;
 }
 
 function difference(array, values) {
-  return array.filter(item => !values.includes(item))
+  return array.filter((item) => !values.includes(item));
 }
 
 function fill(array, value, start = 0, end = array.length) {
   if (start < 0) start = Math.max(0, array.length + start);
-if (end < 0) end = Math.max(0, array.length + end);
-start = Math.min(start, array.length);
-end = Math.min(end, array.length);
+  if (end < 0) end = Math.max(0, array.length + end);
+  start = Math.min(start, array.length);
+  end = Math.min(end, array.length);
 
-  for(let i = start ; i < end ; i++){
+  for (let i = start; i < end; i++) {
     array[i] = value;
   }
   return array;
+}
+
+function get(objectParam, pathParam, defaultValue) {
+  if (objectParam === null) return defaultValue;
+
+  const path = Array.isArray(pathParam) ? pathParam : pathParam.split(".");
+
+  const result = path.reduce(
+    (obj, key) => (obj == null ? undefined : obj[key]),
+    objectParam,
+  );
+
+  return result !== undefined ? result : defaultValue;
 }
