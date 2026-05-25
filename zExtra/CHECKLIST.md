@@ -221,7 +221,7 @@
 - [x] 238. Product of Array Except Self (Medium)
 - [x] 523. Continuous Subarray Sum (Medium)
 - [x] 525. Contiguous Array (Medium)
-- [ ] 974. Subarray Sums Divisible by K (Medium)
+- [x] 974. Subarray Sums Divisible by K (Medium)
 - [ ] 1314. Matrix Block Sum (Medium)
 - [ ] 304. Range Sum Query 2D - Immutable (Medium)
 
