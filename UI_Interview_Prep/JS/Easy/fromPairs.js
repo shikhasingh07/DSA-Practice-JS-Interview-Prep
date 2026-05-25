@@ -3,9 +3,7 @@ function fromPairs(pairs) {
 
   if (Array.isArray(pairs)) {
     for (let i = 0; i < pairs.length; i++) {
-      for (let j = i; j < pairs.length; j++) {
-        obj[pairs[j][0]] = pairs[j][1];
-      }
+      obj[pairs[i][0]] = pairs[i][1];
     }
   }
 
