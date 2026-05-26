@@ -222,8 +222,8 @@
 - [x] 523. Continuous Subarray Sum (Medium)
 - [x] 525. Contiguous Array (Medium)
 - [x] 974. Subarray Sums Divisible by K (Medium)
-- [ ] 1314. Matrix Block Sum (Medium)
-- [ ] 304. Range Sum Query 2D - Immutable (Medium)
+- [x] 1314. Matrix Block Sum (Medium)
+- [x] 304. Range Sum Query 2D - Immutable (Medium)
 
 ### Hard
 - [ ] 1074. Number of Submatrices That Sum to Target (Hard)
