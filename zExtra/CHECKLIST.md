@@ -226,7 +226,7 @@
 - [x] 304. Range Sum Query 2D - Immutable (Medium)
 
 ### Hard
-- [ ] 1074. Number of Submatrices That Sum to Target (Hard)
+- [x] 1074. Number of Submatrices That Sum to Target (Hard)
 
 ---
 ## Binary Search
