@@ -94,3 +94,11 @@ function get(objectParam, pathParam, defaultValue) {
 
   return result !== undefined ? result : defaultValue;
 }
+
+function intersection(...arrays) {
+ if (arrays.length === 0) return [];
+
+  return [...new Set(arrays[0])].filter((value) =>
+    arrays.every((arr) => arr.includes(value)),
+  );
+}
