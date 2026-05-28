@@ -1,6 +1,4 @@
 var mySqrt = function (x) {
-  if (x <= 2) return 1;
-
   let low = 1,
     high = x;
   while (low <= high) {
