@@ -232,14 +232,14 @@
 ## Binary Search
 
 ### Concepts to learn first
-- [ ] Standard binary search (lo/hi/mid)
+- [x] Standard binary search (lo/hi/mid)
 - [ ] Search on answer (min/max feasibility)
 - [ ] Binary search on rotated array
 
 ### Easy
-- [ ] 704. Binary Search (Easy)
-- [ ] 35. Search Insert Position (Easy)
-- [ ] 374. Guess Number Higher Or Lower (Easy)
+- [x] 704. Binary Search (Easy)
+- [x] 35. Search Insert Position (Easy)
+- [x] 374. Guess Number Higher Or Lower (Easy)
 - [ ] 69. Sqrt(x) (Easy)
 - [ ] 367. Valid Perfect Square (Easy)
 
@@ -300,37 +300,3 @@
 ### Hard
 - [ ] 10. Regular Expression Matching (Hard)
 - [ ] 44. Wildcard Matching (Hard)
-
-## Math Concepts to Study
-
-### Number Theory
-- [ ] GCD / LCM (Euclidean algorithm)
-- [ ] Prime numbers & Sieve of Eratosthenes
-- [ ] Modular arithmetic (`% n`, large number problems)
-- [ ] Factorial (n!)
-- [ ] Power/Exponentiation (fast power `x^n`)
-- [ ] Divisors & multiples
-
-### Combinatorics
-- [ ] Permutation (nPr) — ordered arrangements
-- [ ] Combination (nCr) — unordered selection
-- [ ] Pascal's Triangle
-- [ ] Pigeonhole Principle
-
-### Bit Manipulation
-- [ ] AND, OR, XOR, NOT
-- [ ] Left/right shifts (`<<`, `>>`)
-- [ ] Common tricks (check odd/even, swap, count set bits)
-
-### Geometry (rare but asked)
-- [ ] Distance formula
-- [ ] Slope / collinear points
-- [ ] Area of triangle / polygon
-
-### Miscellaneous
-- [ ] Logarithms (complexity analysis)
-- [ ] Probability basics
-- [ ] Matrix multiplication
-- [ ] Prefix products / suffix products
-
-----

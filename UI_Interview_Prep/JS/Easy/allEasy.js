@@ -96,9 +96,37 @@ function get(objectParam, pathParam, defaultValue) {
 }
 
 function intersection(...arrays) {
- if (arrays.length === 0) return [];
+  if (arrays.length === 0) return [];
 
   return [...new Set(arrays[0])].filter((value) =>
     arrays.every((arr) => arr.includes(value)),
   );
+}
+
+function maxBy(array, iteratee) {
+  let maxVal, maxEl;
+
+  for (let val of array) {
+    const cur = iteratee(val);
+    if (cur !== undefined && (cur > maxEl || maxEl === undefined)) {
+      maxEl = cur;
+      maxVal = val;
+    }
+  }
+
+  return maxVal;
+}
+
+function minBy(array, iteratee) {
+  let maxVal, maxEl;
+
+  for (let val of array) {
+    const cur = iteratee(val);
+    if (cur !== undefined && (cur < maxEl || maxEl === undefined)) {
+      maxEl = cur;
+      maxVal = val;
+    }
+  }
+
+  return maxVal;
 }
