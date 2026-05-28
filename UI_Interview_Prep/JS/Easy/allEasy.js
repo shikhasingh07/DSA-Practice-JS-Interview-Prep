@@ -130,3 +130,13 @@ function minBy(array, iteratee) {
 
   return maxVal;
 }
+
+function objectMap(obj, fn) {
+  let newObj = {};
+
+  for (let key in obj) {
+    newObj[key] = fn.call(obj, obj[key]);
+  }
+
+  return newObj;
+}
