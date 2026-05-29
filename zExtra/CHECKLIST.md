@@ -244,8 +244,8 @@
 - [x] 367. Valid Perfect Square (Easy)
 
 ### Medium — Search in Array
-- [ ] 540. Single Element in a Sorted Array (Medium)
-- [ ] 162. Find Peak Element (Medium)
+- [x] 540. Single Element in a Sorted Array (Medium)
+- [x] 162. Find Peak Element (Medium)
 - [ ] 74. Search a 2D Matrix (Medium)
 - [ ] 153. Find Minimum in Rotated Sorted Array (Medium)
 - [ ] 33. Search in Rotated Sorted Array (Medium)
