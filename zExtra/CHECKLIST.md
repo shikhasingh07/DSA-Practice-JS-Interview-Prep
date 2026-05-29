@@ -240,8 +240,8 @@
 - [x] 704. Binary Search (Easy)
 - [x] 35. Search Insert Position (Easy)
 - [x] 374. Guess Number Higher Or Lower (Easy)
-- [ ] 69. Sqrt(x) (Easy)
-- [ ] 367. Valid Perfect Square (Easy)
+- [x] 69. Sqrt(x) (Easy)
+- [x] 367. Valid Perfect Square (Easy)
 
 ### Medium — Search in Array
 - [ ] 540. Single Element in a Sorted Array (Medium)
