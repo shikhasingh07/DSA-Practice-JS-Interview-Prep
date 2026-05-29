@@ -140,3 +140,16 @@ function objectMap(obj, fn) {
 
   return newObj;
 }
+
+function once(func) {
+  let once = false;
+  let val;
+
+  return function(...args){
+    if(!once){
+      val = func.apply(this,args);
+      once = true;
+    }
+    return val; 
+  }
+}
