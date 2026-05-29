@@ -208,8 +208,8 @@
 
 ### Concepts to learn first
 - [x] 1D prefix sum array
-- [ ] 2D prefix sum matrix
-- [ ] Prefix sum + HashMap trick
+- [x] 2D prefix sum matrix
+- [x] Prefix sum + HashMap trick
 
 ### Easy
 - [x] 1480. Running Sum of 1D Array (Easy)
@@ -300,3 +300,243 @@
 ### Hard
 - [ ] 10. Regular Expression Matching (Hard)
 - [ ] 44. Wildcard Matching (Hard)
+
+---
+## Trie (Prefix Tree)
+> After Strings — string matching, autocomplete, prefix problems
+
+### Concepts to learn first
+- [ ] Trie node structure (children map + isEnd flag)
+- [ ] Insert, Search, StartsWith operations
+- [ ] When to use Trie vs HashMap
+
+### Medium
+- [ ] 208. Implement Trie (Prefix Tree) (Medium) ⭐
+- [ ] 211. Design Add and Search Words Data Structure (Medium)
+- [ ] 1268. Search Suggestions System (Medium) ⭐ Amazon
+- [ ] 648. Replace Words (Medium)
+- [ ] 677. Map Sum Pairs (Medium)
+
+### Hard
+- [ ] 212. Word Search II (Hard) ⭐
+- [ ] 745. Prefix and Suffix Search (Hard)
+
+---
+## Linked List
+> After Trie
+
+### Concepts to learn first
+- [ ] Singly vs Doubly Linked List
+- [ ] Fast & Slow pointers (Floyd's cycle detection)
+- [ ] Reverse a linked list
+- [ ] Dummy node trick
+
+### Easy
+- [ ] 206. Reverse Linked List (Easy)
+- [ ] 21. Merge Two Sorted Lists (Easy)
+- [ ] 141. Linked List Cycle (Easy)
+- [ ] 876. Middle of the Linked List (Easy)
+- [ ] 160. Intersection of Two Linked Lists (Easy)
+
+### Medium
+- [ ] 2. Add Two Numbers (Medium)
+- [ ] 19. Remove Nth Node From End of List (Medium)
+- [ ] 138. Copy List with Random Pointer (Medium)
+- [ ] 142. Linked List Cycle II (Medium)
+- [ ] 148. Sort List (Medium)
+- [ ] 143. Reorder List (Medium)
+- [ ] 287. Find the Duplicate Number (Medium)
+
+### Hard
+- [ ] 23. Merge k Sorted Lists (Hard)
+- [ ] 25. Reverse Nodes in k-Group (Hard)
+
+---
+## Trees (Binary Tree + BST)
+> After Linked List
+
+### Concepts to learn first
+- [ ] Tree traversals: Inorder, Preorder, Postorder (recursive + iterative)
+- [ ] Level order traversal (BFS)
+- [ ] Height, depth, diameter
+- [ ] BST property: left < root < right
+
+### Easy
+- [ ] 104. Maximum Depth of Binary Tree (Easy)
+- [ ] 226. Invert Binary Tree (Easy)
+- [ ] 543. Diameter of Binary Tree (Easy)
+- [ ] 110. Balanced Binary Tree (Easy)
+- [ ] 100. Same Tree (Easy)
+- [ ] 572. Subtree of Another Tree (Easy)
+- [ ] 700. Search in a Binary Search Tree (Easy)
+
+### Medium
+- [ ] 102. Binary Tree Level Order Traversal (Medium)
+- [ ] 199. Binary Tree Right Side View (Medium)
+- [ ] 1448. Count Good Nodes in Binary Tree (Medium)
+- [ ] 98. Validate Binary Search Tree (Medium)
+- [ ] 230. Kth Smallest Element in a BST (Medium)
+- [ ] 105. Construct Binary Tree from Preorder and Inorder Traversal (Medium)
+- [ ] 235. Lowest Common Ancestor of a BST (Medium)
+- [ ] 236. Lowest Common Ancestor of a Binary Tree (Medium)
+
+### Hard
+- [ ] 124. Binary Tree Maximum Path Sum (Hard)
+- [ ] 297. Serialize and Deserialize Binary Tree (Hard)
+
+---
+## Heap / Priority Queue
+> After Trees
+
+### Concepts to learn first
+- [ ] Min Heap vs Max Heap
+- [ ] Insert, remove, heapify
+- [ ] Top K pattern
+
+### Easy
+- [ ] 703. Kth Largest Element in a Stream (Easy)
+- [ ] 1046. Last Stone Weight (Easy)
+
+### Medium
+- [ ] 215. Kth Largest Element in an Array (Medium) ⭐
+- [ ] 973. K Closest Points to Origin (Medium)
+- [ ] 1985. Find the Kth Largest Integer in the Array (Medium)
+- [ ] 621. Task Scheduler (Medium) ⭐ (done in Greedy)
+- [ ] 355. Design Twitter (Medium)
+
+### Hard
+- [ ] 295. Find Median from Data Stream (Hard) ⭐
+- [ ] 502. IPO (Hard) (done in Greedy)
+
+---
+## Backtracking
+> After Heap
+
+### Concepts to learn first
+- [ ] Choose → Explore → Unchoose template
+- [ ] When to prune (avoid duplicates)
+
+### Medium
+- [ ] 78. Subsets (Medium)
+- [ ] 39. Combination Sum (Medium)
+- [ ] 46. Permutations (Medium)
+- [ ] 90. Subsets II (Medium)
+- [ ] 40. Combination Sum II (Medium)
+- [ ] 47. Permutations II (Medium)
+- [ ] 79. Word Search (Medium)
+
+### Hard
+- [ ] 51. N-Queens (Hard)
+- [ ] 37. Sudoku Solver (Hard)
+
+---
+## Sorting Algorithms (Implementation)
+> After Backtracking — senior interviews mein implementation poochhi jaati hai
+
+### Concepts to learn first
+- [ ] Bubble Sort — O(n²), stable
+- [ ] Selection Sort — O(n²), unstable
+- [ ] Insertion Sort — O(n²), stable, good for nearly sorted
+- [ ] Merge Sort — O(n log n), stable, divide & conquer ⭐
+- [ ] Quick Sort — O(n log n) avg, unstable, in-place ⭐
+- [ ] Heap Sort — O(n log n), unstable, uses max heap
+
+### Practice
+- [ ] 912. Sort an Array (Medium) — implement merge sort / quick sort
+- [ ] 75. Sort Colors (Medium) — Dutch flag (done in Two Pointers)
+- [ ] 148. Sort List (Medium) — merge sort on linked list
+
+---
+## Bit Manipulation
+> After Sorting
+
+### Concepts to learn first
+- [ ] AND (&), OR (|), XOR (^), NOT (~)
+- [ ] Left shift (<<), Right shift (>>)
+- [ ] Check if bit set: `n & (1 << i)`
+- [ ] Set a bit: `n | (1 << i)`
+- [ ] Clear a bit: `n & ~(1 << i)`
+- [ ] XOR trick: `a ^ a = 0`, `a ^ 0 = a`
+- [ ] Check power of 2: `n & (n-1) === 0`
+
+### Easy
+- [ ] 191. Number of 1 Bits (Easy)
+- [ ] 338. Counting Bits (Easy)
+- [ ] 190. Reverse Bits (Easy)
+- [ ] 268. Missing Number (Easy) — XOR trick
+- [ ] 371. Sum of Two Integers (Easy) — no + operator
+
+### Medium
+- [ ] 201. Bitwise AND of Numbers Range (Medium)
+- [ ] 137. Single Number II (Medium)
+- [ ] 260. Single Number III (Medium)
+
+---
+## Dynamic Programming
+> After Bit Manipulation
+
+### Concepts to learn first
+- [ ] Memoization (top-down)
+- [ ] Tabulation (bottom-up)
+- [ ] Identify subproblem + recurrence relation
+
+### Easy
+- [ ] 70. Climbing Stairs (Easy)
+- [ ] 746. Min Cost Climbing Stairs (Easy)
+- [ ] 198. House Robber (Easy)
+
+### Medium — 1D DP
+- [ ] 213. House Robber II (Medium)
+- [ ] 5. Longest Palindromic Substring (Medium)
+- [ ] 647. Palindromic Substrings (Medium)
+- [ ] 91. Decode Ways (Medium)
+- [ ] 322. Coin Change (Medium) ⭐
+- [ ] 152. Maximum Product Subarray (Medium)
+- [ ] 139. Word Break (Medium)
+- [ ] 300. Longest Increasing Subsequence (Medium) ⭐
+
+### Medium — 2D DP
+- [ ] 62. Unique Paths (Medium)
+- [ ] 1143. Longest Common Subsequence (Medium)
+- [ ] 309. Best Time to Buy and Sell Stock with Cooldown (Medium)
+- [ ] 518. Coin Change II (Medium)
+- [ ] 494. Target Sum (Medium)
+- [ ] 97. Interleaving String (Medium)
+- [ ] 329. Longest Increasing Path in a Matrix (Medium)
+- [ ] 1312. Minimum Insertion Steps to Make a String Palindrome (Medium)
+
+### Hard
+- [ ] 72. Edit Distance (Hard)
+- [ ] 312. Burst Balloons (Hard)
+- [ ] 10. Regular Expression Matching (Hard)
+
+---
+## Graphs
+> After DP — most complex, needs Trees + BFS/DFS strong first
+
+### Concepts to learn first
+- [ ] Adjacency list vs matrix
+- [ ] BFS (shortest path)
+- [ ] DFS (explore all paths)
+- [ ] Union Find (Disjoint Set)
+- [ ] Topological Sort
+
+### Medium
+- [ ] 200. Number of Islands (Medium) ⭐
+- [ ] 133. Clone Graph (Medium)
+- [ ] 695. Max Area of Island (Medium)
+- [ ] 417. Pacific Atlantic Water Flow (Medium)
+- [ ] 130. Surrounded Regions (Medium)
+- [ ] 994. Rotting Oranges (Medium)
+- [ ] 207. Course Schedule (Medium) ⭐ Topological Sort
+- [ ] 210. Course Schedule II (Medium)
+- [ ] 684. Redundant Connection (Medium) Union Find
+- [ ] 323. Number of Connected Components (Medium)
+- [ ] 261. Graph Valid Tree (Medium)
+
+### Hard
+- [ ] 127. Word Ladder (Hard)
+- [ ] 269. Alien Dictionary (Hard)
+- [ ] 743. Network Delay Time (Hard) Dijkstra
+- [ ] 778. Swim in Rising Water (Hard)
+- [ ] 787. Cheapest Flights Within K Stops (Hard)
