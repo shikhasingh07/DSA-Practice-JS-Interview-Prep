@@ -145,11 +145,33 @@ function once(func) {
   let once = false;
   let val;
 
-  return function(...args){
-    if(!once){
-      val = func.apply(this,args);
+  return function (...args) {
+    if (!once) {
+      val = func.apply(this, args);
       once = true;
     }
-    return val; 
+    return val;
+  };
+}
+
+function promiseReject(reason) {
+  return new Promise((resolve, reject) => reject(reason));
+}
+
+function range(start = 0, end, step = 1) {
+  let ans = [];
+  if (end === undefined) {
+    end = start;
+    start = 0;
+    if (end < 0) step = -1;
   }
+
+  if (step === 0) {
+    for (let i = 0; i < end - start; i++) ans.push(start);
+    return ans;
+  }
+  for (let i = start; step > 0 ? i < end : i > end; i += step) {
+    ans.push(i);
+  }
+  return ans;
 }
