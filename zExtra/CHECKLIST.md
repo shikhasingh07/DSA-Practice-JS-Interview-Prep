@@ -248,8 +248,8 @@
 - [x] 162. Find Peak Element (Medium)
 - [x] 74. Search a 2D Matrix (Medium)
 - [x] 153. Find Minimum in Rotated Sorted Array (Medium)
-- [ ] 33. Search in Rotated Sorted Array (Medium)
-- [ ] 34. Find First and Last Position of Element in Sorted Array (Medium)
+- [x] 33. Search in Rotated Sorted Array (Medium)
+- [x] 34. Find First and Last Position of Element in Sorted Array (Medium)
 - [ ] 981. Time Based Key Value Store (Medium)
 
 ### Medium — Search on Answer
