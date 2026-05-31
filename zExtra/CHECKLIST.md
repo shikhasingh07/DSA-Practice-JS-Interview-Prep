@@ -250,7 +250,7 @@
 - [x] 153. Find Minimum in Rotated Sorted Array (Medium)
 - [x] 33. Search in Rotated Sorted Array (Medium)
 - [x] 34. Find First and Last Position of Element in Sorted Array (Medium)
-- [ ] 981. Time Based Key Value Store (Medium)
+- [x] 981. Time Based Key Value Store (Medium)
 
 ### Medium — Search on Answer
 - [ ] 875. Koko Eating Bananas (Medium)
