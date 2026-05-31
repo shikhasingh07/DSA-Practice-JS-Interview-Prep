@@ -175,3 +175,33 @@ function range(start = 0, end, step = 1) {
   }
   return ans;
 }
+
+function rangeRight(start = 0, end, step = 1) {
+  let ans = range(start, end, step).reverse();
+  return ans;
+}
+
+let instance = null;
+
+const GlobalMap = {
+  getInstance() {
+    if (!instance) {
+      instance = new Map();
+    }
+    return instance;
+  },
+};
+
+export default GlobalMap;
+
+function uniqueArray(array) {
+  return new Set(...Array);
+}
+
+Array.prototype.myAt = function (index) {
+  if (index >= 0) {
+    return this[index];
+  } else {
+    return this[this.length + index];
+  }
+};
