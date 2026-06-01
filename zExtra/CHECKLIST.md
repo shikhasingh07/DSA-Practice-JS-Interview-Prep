@@ -233,7 +233,7 @@
 
 ### Concepts to learn first
 - [x] Standard binary search (lo/hi/mid)
-- [ ] Search on answer (min/max feasibility)
+- [x] Search on answer (min/max feasibility)
 - [ ] Binary search on rotated array
 
 ### Easy
@@ -253,13 +253,13 @@
 - [x] 981. Time Based Key Value Store (Medium)
 
 ### Medium — Search on Answer
-- [ ] 875. Koko Eating Bananas (Medium)
-- [ ] 1011. Capacity To Ship Packages Within D Days (Medium)
-- [ ] 1283. Find the Smallest Divisor Given a Threshold (Medium)
+- [x] 875. Koko Eating Bananas (Medium)
+- [x] 1011. Capacity To Ship Packages Within D Days (Medium)
+- [x] 1283. Find the Smallest Divisor Given a Threshold (Medium)
 - [ ] 1482. Minimum Number of Days to Make m Bouquets (Medium)
 - [ ] 2300. Successful Pairs of Spells and Potions (Medium)
 - [ ] 2187. Minimum Time to Complete Trips (Medium)
-- [ ] 2226. Maximum Candies Allocated to K Children (Medium)
+- [x] 2226. Maximum Candies Allocated to K Children (Medium)
 - [ ] 1870. Minimum Speed to Arrive on Time (Medium)
 - [ ] 2560. House Robber IV (Medium)
 
