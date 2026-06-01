@@ -205,3 +205,42 @@ Array.prototype.myAt = function (index) {
     return this[this.length + index];
   }
 };
+
+function cycle(...values) {
+  let index = 0;
+
+  return () => {
+    // Read the current entry before advancing so the first call returns `values[0]`.
+    const currentValue = values[index];
+    // Wrap back to the start after the last item.
+    index = (index + 1) % values.length;
+    return currentValue;
+  };
+}
+
+Function.prototype.myBind = function (thisArg, ...argArray) {
+  let fn = this; 
+  return (...args) => {
+    return fn.apply(thisArg,[...argArray, ...args]);
+  }
+};
+
+function size(collection) {
+ if (collection == null) {
+    return 0;
+  }
+
+  if (Array.isArray(collection) || typeof collection === 'string') {
+    return collection.length;
+  }
+
+  if (collection instanceof Map || collection instanceof Set) {
+    return collection.size;
+  }
+
+  if (typeof collection === 'object') {
+    return Object.keys(collection).length;
+  }
+
+  return 0;
+}

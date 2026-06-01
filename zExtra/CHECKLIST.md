@@ -256,7 +256,7 @@
 - [x] 875. Koko Eating Bananas (Medium)
 - [x] 1011. Capacity To Ship Packages Within D Days (Medium)
 - [x] 1283. Find the Smallest Divisor Given a Threshold (Medium)
-- [ ] 1482. Minimum Number of Days to Make m Bouquets (Medium)
+- [x] 1482. Minimum Number of Days to Make m Bouquets (Medium)
 - [ ] 2300. Successful Pairs of Spells and Potions (Medium)
 - [ ] 2187. Minimum Time to Complete Trips (Medium)
 - [x] 2226. Maximum Candies Allocated to K Children (Medium)
