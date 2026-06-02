@@ -234,7 +234,7 @@
 ### Concepts to learn first
 - [x] Standard binary search (lo/hi/mid)
 - [x] Search on answer (min/max feasibility)
-- [ ] Binary search on rotated array
+- [x] Binary search on rotated array
 
 ### Easy
 - [x] 704. Binary Search (Easy)
