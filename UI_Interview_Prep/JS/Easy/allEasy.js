@@ -277,17 +277,11 @@ export function isArray(value) {
  * @returns {boolean}
  */
 export function isFunction(value) {
-  return (
-    (typeof value === "object" && value !== null) || typeof value === "function"
-  );
+  return typeof value === 'function';  // sirf function check
 }
 
-/**
- * @param {unknown} value
- * @returns {boolean}
- */
 export function isObject(value) {
-  return typeof value === "object" && value !== null;
+  return (typeof value === 'object' && value !== null) || typeof value === 'function';  // functions bhi objects hain
 }
 
 /**
