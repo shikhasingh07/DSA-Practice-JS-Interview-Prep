@@ -192,8 +192,6 @@ const GlobalMap = {
   },
 };
 
-export default GlobalMap;
-
 function uniqueArray(array) {
   return new Set(...Array);
 }
@@ -219,18 +217,18 @@ function cycle(...values) {
 }
 
 Function.prototype.myBind = function (thisArg, ...argArray) {
-  let fn = this; 
+  let fn = this;
   return (...args) => {
-    return fn.apply(thisArg,[...argArray, ...args]);
-  }
+    return fn.apply(thisArg, [...argArray, ...args]);
+  };
 };
 
 function size(collection) {
- if (collection == null) {
+  if (collection == null) {
     return 0;
   }
 
-  if (Array.isArray(collection) || typeof collection === 'string') {
+  if (Array.isArray(collection) || typeof collection === "string") {
     return collection.length;
   }
 
@@ -238,9 +236,66 @@ function size(collection) {
     return collection.size;
   }
 
-  if (typeof collection === 'object') {
+  if (typeof collection === "object") {
     return Object.keys(collection).length;
   }
 
   return 0;
+}
+
+Array.prototype.myReduce = function (callbackFn, initialValue) {
+  let hasInitial = initialValue !== undefined;
+  let acc = hasInitial ? initialValue : this[0];
+  if (this.length === 0 && !hasInitial)
+    throw new TypeError("Reduce of empty array");
+
+  for (let i = hasInitial ? 0 : 1; i < this.length; i++) {
+    if (!(i in this)) continue;
+
+    acc = callbackFn(acc, this[i], i, this);
+  }
+  return acc;
+};
+
+function sum(value) {
+  let total = value;
+  return function inner(arg) {
+    if (arg !== undefined) {
+      return sum(total + arg); 
+    } else {
+      return total;
+    }
+  };
+}
+
+export function isArray(value) {
+  return Array.isArray(value);
+}
+
+/**
+ * @param {unknown} value
+ * @returns {boolean}
+ */
+export function isFunction(value) {
+  return (
+    (typeof value === "object" && value !== null) || typeof value === "function"
+  );
+}
+
+/**
+ * @param {unknown} value
+ * @returns {boolean}
+ */
+export function isObject(value) {
+  return typeof value === "object" && value !== null;
+}
+
+/**
+ * @param {unknown} value
+ * @returns {boolean}
+ */
+export function isPlainObject(value) {
+  if (value === null || typeof value !== "object") return false;
+  const proto = Object.getPrototypeOf(value);
+  return proto === null || proto === Object.prototype;
 }
