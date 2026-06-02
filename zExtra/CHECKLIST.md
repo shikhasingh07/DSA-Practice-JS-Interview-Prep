@@ -261,7 +261,7 @@
 - [x] 2187. Minimum Time to Complete Trips (Medium)
 - [x] 2226. Maximum Candies Allocated to K Children (Medium)
 - [x] 1870. Minimum Speed to Arrive on Time (Medium)
-- [ ] 2560. House Robber IV (Medium)
+- [x] 2560. House Robber IV (Medium)
 
 ### Hard
 - [ ] 4. Median of Two Sorted Arrays (Hard)
