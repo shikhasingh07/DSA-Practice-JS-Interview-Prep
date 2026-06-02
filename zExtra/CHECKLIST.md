@@ -264,7 +264,7 @@
 - [x] 2560. House Robber IV (Medium)
 
 ### Hard
-- [ ] 4. Median of Two Sorted Arrays (Hard)
+- [x] 4. Median of Two Sorted Arrays (Hard)
 - [ ] 410. Split Array Largest Sum (Hard)
 - [ ] 719. Find K-th Smallest Pair Distance (Hard)
 - [ ] 1095. Find in Mountain Array (Hard)
