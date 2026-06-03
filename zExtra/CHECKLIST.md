@@ -266,8 +266,8 @@
 ### Hard
 - [x] 4. Median of Two Sorted Arrays (Hard)
 - [x] 410. Split Array Largest Sum (Hard)
-- [ ] 719. Find K-th Smallest Pair Distance (Hard)
-- [ ] 1095. Find in Mountain Array (Hard)
+- [x] 719. Find K-th Smallest Pair Distance (Hard)
+- [x] 1095. Find in Mountain Array (Hard)
 
 ---
 ## Strings
