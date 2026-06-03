@@ -273,7 +273,7 @@
 ## Strings
 
 ### Easy
-- [ ] 242. Valid Anagram (Easy)
+- [x] 242. Valid Anagram (Easy)
 - [ ] 28. Find the Index of the First Occurrence in a String (Easy)
 - [ ] 13. Roman to Integer (Easy)
 - [ ] 14. Longest Common Prefix (Easy)
