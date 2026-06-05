@@ -277,9 +277,9 @@
 - [x] 28. Find the Index of the First Occurrence in a String (Easy)
 - [x] 13. Roman to Integer (Easy)
 - [x] 14. Longest Common Prefix (Easy)
-- [ ] 58. Length of Last Word (Easy)
-- [ ] 1768. Merge Strings Alternately (Easy)
-- [ ] 151. Reverse Words in a String (Medium → Easy)
+- [x] 58. Length of Last Word (Easy)
+- [x] 1768. Merge Strings Alternately (Easy)
+- [x] 151. Reverse Words in a String (Medium → Easy)
 
 ### Medium — Pattern Matching
 - [ ] 5. Longest Palindromic Substring (Medium)
