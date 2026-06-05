@@ -38,6 +38,6 @@ function makeCounter(initialValue = 0) {
     get : () => current,
     increment : () => ++current,
     decrement : () => --current,
-    reset : () => (count = initialValue),
+    reset : () => (current = initialValue),
   };
 }
