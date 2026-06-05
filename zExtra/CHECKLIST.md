@@ -275,7 +275,7 @@
 ### Easy
 - [x] 242. Valid Anagram (Easy)
 - [x] 28. Find the Index of the First Occurrence in a String (Easy)
-- [ ] 13. Roman to Integer (Easy)
+- [x] 13. Roman to Integer (Easy)
 - [ ] 14. Longest Common Prefix (Easy)
 - [ ] 58. Length of Last Word (Easy)
 - [ ] 1768. Merge Strings Alternately (Easy)
