@@ -282,9 +282,9 @@
 - [x] 151. Reverse Words in a String (Medium → Easy)
 
 ### Medium — Pattern Matching
-- [ ] 5. Longest Palindromic Substring (Medium)
-- [ ] 49. Group Anagrams (Medium)
-- [ ] 271. Encode and Decode Strings (Medium)
+- [x] 5. Longest Palindromic Substring (Medium)
+- [x] 49. Group Anagrams (Medium)
+- [x] 271. Encode and Decode Strings (Medium)
 - [ ] 6. Zigzag Conversion (Medium)
 - [ ] 8. String to Integer / atoi (Medium)
 - [ ] 12. Integer to Roman (Medium)
