@@ -293,3 +293,12 @@ export function isPlainObject(value) {
   const proto = Object.getPrototypeOf(value);
   return proto === null || proto === Object.prototype;
 }
+
+function readingOrder(elements) {
+ return elements
+    .slice()
+    .sort((elementA, elementB) => {
+      return elementA.y - elementB.y || elementA.x - elementB.x;
+    })
+    .map((element) => element.id);
+}
