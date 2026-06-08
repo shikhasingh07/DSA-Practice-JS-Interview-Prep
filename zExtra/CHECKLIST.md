@@ -309,7 +309,7 @@
 - [x] 206. Reverse Linked List (Easy)
 - [x] 21. Merge Two Sorted Lists (Easy)
 - [x] 141. Linked List Cycle (Easy)
-- [ ] 876. Middle of the Linked List (Easy)
+- [x] 876. Middle of the Linked List (Easy)
 - [ ] 160. Intersection of Two Linked Lists (Easy)
 
 ### Medium
