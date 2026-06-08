@@ -287,8 +287,8 @@
 - [x] 271. Encode and Decode Strings (Medium)
 - [x] 6. Zigzag Conversion (Medium)
 - [x] 8. String to Integer / atoi (Medium)
-- [ ] 12. Integer to Roman (Medium)
-- [ ] 38. Count and Say (Medium)
+- [x] 12. Integer to Roman (Medium)
+- [x] 38. Count and Say (Medium) ⚠️ revisit
 - [ ] 443. String Compression (Medium)
 
 ### Medium — Subsequence / Edit
