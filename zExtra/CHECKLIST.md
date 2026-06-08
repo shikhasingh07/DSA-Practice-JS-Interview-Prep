@@ -293,37 +293,11 @@
 
 ### Medium — Subsequence / Edit
 - [x] 392. Is Subsequence (Easy)
-- [ ] 1143. Longest Common Subsequence (Medium)
-- [ ] 72. Edit Distance (Medium)
-- [ ] 115. Distinct Subsequences (Hard)
-
-### Hard
-- [ ] 10. Regular Expression Matching (Hard)
-- [ ] 44. Wildcard Matching (Hard)
-
----
-## Trie (Prefix Tree)
-> After Strings — string matching, autocomplete, prefix problems
-
-### Concepts to learn first
-- [ ] Trie node structure (children map + isEnd flag)
-- [ ] Insert, Search, StartsWith operations
-- [ ] When to use Trie vs HashMap
-
-### Medium
-- [ ] 208. Implement Trie (Prefix Tree) (Medium) ⭐
-- [ ] 211. Design Add and Search Words Data Structure (Medium)
-- [ ] 1268. Search Suggestions System (Medium) ⭐ Amazon
-- [ ] 648. Replace Words (Medium)
-- [ ] 677. Map Sum Pairs (Medium)
-
-### Hard
-- [ ] 212. Word Search II (Hard) ⭐
-- [ ] 745. Prefix and Suffix Search (Hard)
+> ⏳ After DP: 1143. LCS, 72. Edit Distance, 115. Distinct Subsequences, 10. Regular Expression Matching, 44. Wildcard Matching
 
 ---
 ## Linked List
-> After Trie
+> After Strings
 
 ### Concepts to learn first
 - [ ] Singly vs Doubly Linked List
@@ -385,8 +359,28 @@
 - [ ] 297. Serialize and Deserialize Binary Tree (Hard)
 
 ---
+## Trie (Prefix Tree)
+> After Trees — string matching, autocomplete, prefix problems
+
+### Concepts to learn first
+- [ ] Trie node structure (children map + isEnd flag)
+- [ ] Insert, Search, StartsWith operations
+- [ ] When to use Trie vs HashMap
+
+### Medium
+- [ ] 208. Implement Trie (Prefix Tree) (Medium) ⭐
+- [ ] 211. Design Add and Search Words Data Structure (Medium)
+- [ ] 1268. Search Suggestions System (Medium) ⭐ Amazon
+- [ ] 648. Replace Words (Medium)
+- [ ] 677. Map Sum Pairs (Medium)
+
+### Hard
+- [ ] 212. Word Search II (Hard) ⭐
+- [ ] 745. Prefix and Suffix Search (Hard)
+
+---
 ## Heap / Priority Queue
-> After Trees
+> After Trie
 
 ### Concepts to learn first
 - [ ] Min Heap vs Max Heap
