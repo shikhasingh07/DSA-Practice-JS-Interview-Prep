@@ -289,10 +289,10 @@
 - [x] 8. String to Integer / atoi (Medium)
 - [x] 12. Integer to Roman (Medium)
 - [x] 38. Count and Say (Medium) ⚠️ revisit
-- [ ] 443. String Compression (Medium)
+- [x] 443. String Compression (Medium)
 
 ### Medium — Subsequence / Edit
-- [ ] 392. Is Subsequence (Easy)
+- [x] 392. Is Subsequence (Easy)
 - [ ] 1143. Longest Common Subsequence (Medium)
 - [ ] 72. Edit Distance (Medium)
 - [ ] 115. Distinct Subsequences (Hard)

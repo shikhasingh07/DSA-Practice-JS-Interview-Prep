@@ -25,7 +25,8 @@
       "Bash(node /Users/shikhasingh/Desktop/daily/DSA/BinarySearch/SearchOnAnswers/2560.js)",
       "Bash(node /Users/shikhasingh/Desktop/daily/DSA/BinarySearch/Hard/4.js)",
       "Bash(node /Users/shikhasingh/Desktop/daily/DSA/BinarySearch/Hard/410.js)",
-      "Bash(gh --version)"
+      "Bash(gh --version)",
+      "Bash(xargs -I{} basename {})"
     ]
   }
 }
