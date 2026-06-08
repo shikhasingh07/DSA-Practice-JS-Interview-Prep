@@ -1,17 +1,43 @@
-import { useState } from "react";
-export default function useCounter(initialValue = 0) {
-  const [count, setCount] = useState(initialValue);
+import { useState, useEffect } from "react";
 
-  const increment = () => {
-    setCount((prev) => prev + 1);
-  };
-
-  const decrement = () => {
-    setCount((prev) => prev - 1);
-  };
+function useCountdown({
+  countStart,
+  countStop = 0,
+  intervalMs = 1000,
+  isIncrement = false,
+}) {
+  const [count, setCount] = useState(countStart);
+  const [isRunning, setIsRunning] = useState(false);
+  useEffect(() => {
+    if (!isRunning) return;
+    const timer = setInterval(
+      () => setCount((c) => (isIncrement ? c + 1 : c - 1)),
+      intervalMs,
+    );
+    return () => clearInterval(timer);
+  }, [isRunning]);
 
   const reset = () => {
-    setCount(initialValue);
-  }
-  return { count, increment, decrement, reset, setCount };
+    setCount(countStart);
+    setIsRunning(false);
+  };
+  const start = () => {
+    setIsRunning(true);
+  };
+  const stop = () => {
+    setIsRunning(false);
+  };
+
+  return { reset, start, stop, count };
+}
+
+function makeCounter(initialValue = 0) {
+  let current = initialValue;
+
+  return {
+    get : () => current,
+    increment : () => ++current,
+    decrement : () => --current,
+    reset : () => (current = initialValue),
+  };
 }
