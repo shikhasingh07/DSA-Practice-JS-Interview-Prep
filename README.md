@@ -6,25 +6,36 @@
 
 ---
 
-## Progress
+## DSA Progress
 
 | Topic | Done | Status |
 |-------|:----:|--------|
-| Arrays & HashMap | 14 | ✅ Done |
+| HashMap | 14 | ✅ Done |
 | Two Pointers | 40+ | ✅ Done |
-| Sliding Window | 28 | ✅ Done |
-| Stack | 0 | 🔄 In Progress |
-| Greedy | 0 | 🔜 Next |
-| Prefix Sum | 0 | 🔜 Next |
-| Binary Search | 0 | 🔜 Next |
+| Sliding Window | 28+ | ✅ Done |
+| Stack | 16 | ✅ Done |
+| Greedy | 28/29 | ✅ Done (1 Hard pending) |
+| Prefix Sum | 14 | ✅ Done |
+| Binary Search | 28 | ✅ Done |
+| Strings | 16 | ✅ Done (5 deferred → after DP) |
+| Linked List | 0/13 | 🔄 In Progress |
+| Trees | 0/17 | 🔜 Next |
+| Trie | 0/7 | 🔜 Next |
+| Heap | 0/7 | 🔜 Next |
+| Backtracking | 0/9 | 🔜 Next |
+| Sorting | 0/3 | 🔜 Next |
+| Bit Manipulation | 0/8 | 🔜 Next |
+| Dynamic Programming | 0/19 | 🔜 Next |
+| Graphs | 0/16 | 🔜 Next |
 
-### UI Interview Prep
+## UI Interview Prep
 
 | Topic | Done | Status |
 |-------|:----:|--------|
-| JS Functions (Async, Utility, OOP, DOM) | 30+ | ✅ Done |
-| Polyfills | 6 | ✅ Done |
-| React Hooks | 9 | 🔄 In Progress |
+| JS Utility Functions (Easy) | 15+ | ✅ Done |
+| JS Advanced (Async, OOP, DOM) | 20+ | ✅ Done |
+| Polyfills | 10 | ✅ Done |
+| React Hooks | 9+ | 🔄 In Progress |
 | Machine Coding | 0 | 🔜 Next |
 
 ---
@@ -33,25 +44,21 @@
 
 ```
 DSA/
-├── ArrayHashMap/
-│   ├── HashMap/          # Frequency maps, counting, grouping
-│   ├── String/           # String manipulation
-│   ├── Sorting/          # Sort-based problems
-│   └── TwoPointer/       # Two pointer patterns (sums, palindrome, merge...)
-├── SlidingWindow/        # Fixed & variable size window problems
-│   ├── fixed/
-│   ├── variable/
-│   ├── hash/
-│   └── atMost/           # atMost(k) - atMost(k-1) pattern problems
-├── mds/                  # Notes, checklists, revision tracker
-│   ├── CHECKLIST.md
-│   ├── UI_CHECKLIST.md
-│   ├── REVISION.md
-│   └── NOTES.md
-└── UI_Interview_Prep/
-    ├── JS/               # Closures, async, prototypes, functional utils
-    ├── React/            # Hooks, rendering, patterns
-    └── Polyfills/        # Custom implementations (map, bind, debounce...)
+├── ArrayHashMap/         # HashMap, Two Pointers, Sorting, Merge problems
+├── SlidingWindow/        # Fixed & variable window, atMost(k) pattern
+├── Stack/                # Monotonic stack, bracket matching, calculator
+├── Greedy/               # Intervals, scheduling, jump game
+├── PrefixSum/            # 1D/2D prefix, prefix + HashMap
+├── BinarySearch/         # Search in array, search on answer
+├── String/               # Anagram, compression, subsequence, pattern matching
+├── LinkedList/           # Reverse, cycle, merge, reorder
+├── UI/
+│   ├── JS/
+│   │   ├── Easy/         # Utility fns: chunk, range, sleep, countBy, readingOrder...
+│   │   └── Medium/       # Debounce, deep clone, promise utils, memoize...
+│   ├── Polyfills/        # Custom: map, filter, reduce, bind, fill, findIndex...
+│   └── React/            # Custom hooks: useCounter, useTimeout, nested roots...
+└── zExtra/               # CHECKLIST.md, revision tracker, notes
 ```
 
 ---

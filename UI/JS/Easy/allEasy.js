@@ -295,10 +295,7 @@ export function isPlainObject(value) {
 }
 
 function readingOrder(elements) {
- return elements
-    .slice()
-    .sort((elementA, elementB) => {
-      return elementA.y - elementB.y || elementA.x - elementB.x;
-    })
-    .map((element) => element.id);
+  return elements.slice()
+    .sort((a, b) => a.y - b.y || a.x - b.x)
+    .map((e) => e.id);
 }
