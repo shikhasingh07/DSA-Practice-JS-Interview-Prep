@@ -301,7 +301,7 @@
 
 ### Concepts to learn first
 - [x] Singly vs Doubly Linked List
-- [ ] Fast & Slow pointers (Floyd's cycle detection)
+- [x] Fast & Slow pointers (Floyd's cycle detection)
 - [ ] Reverse a linked list
 - [ ] Dummy node trick
 
@@ -310,7 +310,7 @@
 - [x] 21. Merge Two Sorted Lists (Easy)
 - [x] 141. Linked List Cycle (Easy)
 - [x] 876. Middle of the Linked List (Easy)
-- [ ] 160. Intersection of Two Linked Lists (Easy)
+- [x] 160. Intersection of Two Linked Lists (Easy)
 
 ### Medium
 - [ ] 2. Add Two Numbers (Medium)
