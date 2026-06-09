@@ -313,7 +313,7 @@
 - [x] 160. Intersection of Two Linked Lists (Easy)
 
 ### Medium
-- [ ] 2. Add Two Numbers (Medium)
+- [x] 2. Add Two Numbers (Medium)
 - [ ] 19. Remove Nth Node From End of List (Medium)
 - [ ] 138. Copy List with Random Pointer (Medium)
 - [ ] 142. Linked List Cycle II (Medium)
