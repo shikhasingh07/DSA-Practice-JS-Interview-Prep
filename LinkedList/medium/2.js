@@ -11,8 +11,6 @@ var addTwoNumbers = function (l1, l2) {
     curr = curr.next;
     l1 = l1 ? l1.next : null;
     l2 = l2 ? l2.next : null;
-    // new node banao
-    // carry update karo
   }
 
   return dummy.next;
