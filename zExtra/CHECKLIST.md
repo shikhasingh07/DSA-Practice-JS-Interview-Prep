@@ -314,7 +314,7 @@
 
 ### Medium
 - [x] 2. Add Two Numbers (Medium)
-- [ ] 19. Remove Nth Node From End of List (Medium)
+- [x] 19. Remove Nth Node From End of List (Medium)
 - [ ] 138. Copy List with Random Pointer (Medium)
 - [ ] 142. Linked List Cycle II (Medium)
 - [ ] 148. Sort List (Medium)
