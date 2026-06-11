@@ -316,9 +316,9 @@
 - [x] 2. Add Two Numbers (Medium)
 - [x] 19. Remove Nth Node From End of List (Medium)
 - [x] 138. Copy List with Random Pointer (Medium)
-- [ ] 142. Linked List Cycle II (Medium)
-- [ ] 148. Sort List (Medium)
-- [ ] 143. Reorder List (Medium)
+- [x] 142. Linked List Cycle II (Medium)
+- [x] 148. Sort List (Medium)
+- [x] 143. Reorder List (Medium)
 - [ ] 287. Find the Duplicate Number (Medium)
 
 ### Hard
