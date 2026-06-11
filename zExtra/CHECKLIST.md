@@ -302,8 +302,8 @@
 ### Concepts to learn first
 - [x] Singly vs Doubly Linked List
 - [x] Fast & Slow pointers (Floyd's cycle detection)
-- [ ] Reverse a linked list
-- [ ] Dummy node trick
+- [x] Reverse a linked list
+- [x] Dummy node trick
 
 ### Easy
 - [x] 206. Reverse Linked List (Easy)
@@ -319,7 +319,7 @@
 - [x] 142. Linked List Cycle II (Medium)
 - [x] 148. Sort List (Medium)
 - [x] 143. Reorder List (Medium)
-- [ ] 287. Find the Duplicate Number (Medium)
+- [x] 287. Find the Duplicate Number (Medium)
 
 ### Hard
 - [ ] 23. Merge k Sorted Lists (Hard)
