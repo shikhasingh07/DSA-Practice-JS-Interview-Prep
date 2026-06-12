@@ -322,8 +322,8 @@
 - [x] 287. Find the Duplicate Number (Medium)
 
 ### Hard
-- [ ] 23. Merge k Sorted Lists (Hard)
-- [ ] 25. Reverse Nodes in k-Group (Hard)
+- [x] 23. Merge k Sorted Lists (Hard)
+- [x] 25. Reverse Nodes in k-Group (Hard)
 
 ---
 ## Trees (Binary Tree + BST)
