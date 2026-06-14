@@ -311,6 +311,8 @@
 - [x] 141. Linked List Cycle (Easy)
 - [x] 876. Middle of the Linked List (Easy)
 - [x] 160. Intersection of Two Linked Lists (Easy)
+- [x] 234. Palindrome Linked List (Easy) ⭐ bonus
+- [x] 83. Remove Duplicates from Sorted List (Easy) ⭐ bonus
 
 ### Medium
 - [x] 2. Add Two Numbers (Medium)
@@ -320,6 +322,7 @@
 - [x] 148. Sort List (Medium)
 - [x] 143. Reorder List (Medium)
 - [x] 287. Find the Duplicate Number (Medium)
+- [x] 61. Rotate List (Medium) ⭐ bonus
 
 ### Hard
 - [x] 23. Merge k Sorted Lists (Hard)
@@ -330,19 +333,20 @@
 > After Linked List
 
 ### Concepts to learn first
-- [ ] Tree traversals: Inorder, Preorder, Postorder (recursive + iterative)
-- [ ] Level order traversal (BFS)
-- [ ] Height, depth, diameter
-- [ ] BST property: left < root < right
+- [x] Tree traversals: Inorder, Preorder, Postorder (recursive + iterative)
+- [x] Level order traversal (BFS)
+- [x] Height, depth, diameter
+- [x] BST property: left < root < right
 
 ### Easy
-- [ ] 104. Maximum Depth of Binary Tree (Easy)
-- [ ] 226. Invert Binary Tree (Easy)
-- [ ] 543. Diameter of Binary Tree (Easy)
-- [ ] 110. Balanced Binary Tree (Easy)
-- [ ] 100. Same Tree (Easy)
-- [ ] 572. Subtree of Another Tree (Easy)
-- [ ] 700. Search in a Binary Search Tree (Easy)
+- [x] 104. Maximum Depth of Binary Tree (Easy)
+- [x] 226. Invert Binary Tree (Easy)
+- [x] 543. Diameter of Binary Tree (Easy)
+- [x] 110. Balanced Binary Tree (Easy)
+- [x] 100. Same Tree (Easy)
+- [x] 572. Subtree of Another Tree (Easy)
+- [x] 700. Search in a Binary Search Tree (Easy)
+- [x] 108. Convert Sorted Array to Binary Search Tree (Easy) ⭐ bonus
 
 ### Medium
 - [ ] 102. Binary Tree Level Order Traversal (Medium)
