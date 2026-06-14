@@ -349,11 +349,11 @@
 - [x] 108. Convert Sorted Array to Binary Search Tree (Easy) ⭐ bonus
 
 ### Medium
-- [ ] 102. Binary Tree Level Order Traversal (Medium)
-- [ ] 199. Binary Tree Right Side View (Medium)
-- [ ] 1448. Count Good Nodes in Binary Tree (Medium)
-- [ ] 98. Validate Binary Search Tree (Medium)
-- [ ] 230. Kth Smallest Element in a BST (Medium)
+- [x] 102. Binary Tree Level Order Traversal (Medium)
+- [x] 199. Binary Tree Right Side View (Medium)
+- [x] 1448. Count Good Nodes in Binary Tree (Medium)
+- [x] 98. Validate Binary Search Tree (Medium)
+- [x] 230. Kth Smallest Element in a BST (Medium)
 - [ ] 105. Construct Binary Tree from Preorder and Inorder Traversal (Medium)
 - [ ] 235. Lowest Common Ancestor of a BST (Medium)
 - [ ] 236. Lowest Common Ancestor of a Binary Tree (Medium)
