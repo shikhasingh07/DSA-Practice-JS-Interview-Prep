@@ -347,6 +347,9 @@
 - [x] 572. Subtree of Another Tree (Easy)
 - [x] 700. Search in a Binary Search Tree (Easy)
 - [x] 108. Convert Sorted Array to Binary Search Tree (Easy) ⭐ bonus
+- [x] 112. Path Sum (Easy) ⭐ bonus
+- [x] 617. Merge Two Binary Trees (Easy) ⭐ bonus
+- [x] 938. Range Sum of BST (Easy) ⭐ bonus
 
 ### Medium
 - [x] 102. Binary Tree Level Order Traversal (Medium)
@@ -355,8 +358,10 @@
 - [x] 98. Validate Binary Search Tree (Medium)
 - [x] 230. Kth Smallest Element in a BST (Medium)
 - [x] 105. Construct Binary Tree from Preorder and Inorder Traversal (Medium)
-- [ ] 235. Lowest Common Ancestor of a BST (Medium)
-- [ ] 236. Lowest Common Ancestor of a Binary Tree (Medium)
+- [x] 235. Lowest Common Ancestor of a BST (Medium)
+- [x] 236. Lowest Common Ancestor of a Binary Tree (Medium)
+- [x] 450. Delete Node in a BST (Medium) ⭐ bonus
+- [x] 701. Insert into a Binary Search Tree (Medium) ⭐ bonus
 
 ### Hard
 - [ ] 124. Binary Tree Maximum Path Sum (Hard)
