@@ -364,8 +364,8 @@
 - [x] 701. Insert into a Binary Search Tree (Medium) ⭐ bonus
 
 ### Hard
-- [ ] 124. Binary Tree Maximum Path Sum (Hard)
-- [ ] 297. Serialize and Deserialize Binary Tree (Hard)
+- [x] 124. Binary Tree Maximum Path Sum (Hard)
+- [x] 297. Serialize and Deserialize Binary Tree (Hard)
 
 ---
 ## Trie (Prefix Tree)
