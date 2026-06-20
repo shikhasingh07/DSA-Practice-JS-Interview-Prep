@@ -372,8 +372,8 @@
 > After Trees — string matching, autocomplete, prefix problems
 
 ### Concepts to learn first
-- [ ] Trie node structure (children map + isEnd flag)
-- [ ] Insert, Search, StartsWith operations
+- [x] Trie node structure (children map + isEnd flag)
+- [x] Insert, Search, StartsWith operations
 - [ ] When to use Trie vs HashMap
 
 ### Medium
