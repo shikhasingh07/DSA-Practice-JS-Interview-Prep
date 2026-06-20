@@ -377,8 +377,8 @@
 - [ ] When to use Trie vs HashMap
 
 ### Medium
-- [ ] 208. Implement Trie (Prefix Tree) (Medium) ⭐
-- [ ] 211. Design Add and Search Words Data Structure (Medium)
+- [x] 208. Implement Trie (Prefix Tree) (Medium) ⭐
+- [x] 211. Design Add and Search Words Data Structure (Medium)
 - [ ] 1268. Search Suggestions System (Medium) ⭐ Amazon
 - [ ] 648. Replace Words (Medium)
 - [ ] 677. Map Sum Pairs (Medium)
