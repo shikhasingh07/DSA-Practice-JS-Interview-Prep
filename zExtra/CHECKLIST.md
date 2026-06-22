@@ -379,9 +379,9 @@
 ### Medium
 - [x] 208. Implement Trie (Prefix Tree) (Medium) ⭐
 - [x] 211. Design Add and Search Words Data Structure (Medium)
-- [ ] 1268. Search Suggestions System (Medium) ⭐ Amazon
-- [ ] 648. Replace Words (Medium)
-- [ ] 677. Map Sum Pairs (Medium)
+- [x] 1268. Search Suggestions System (Medium) ⭐ Amazon
+- [x] 648. Replace Words (Medium)
+- [x] 677. Map Sum Pairs (Medium)
 
 ### Hard
 - [ ] 212. Word Search II (Hard) ⭐
