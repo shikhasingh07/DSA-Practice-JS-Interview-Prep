@@ -374,7 +374,7 @@
 ### Concepts to learn first
 - [x] Trie node structure (children map + isEnd flag)
 - [x] Insert, Search, StartsWith operations
-- [ ] When to use Trie vs HashMap
+- [] When to use Trie vs HashMap
 
 ### Medium
 - [x] 208. Implement Trie (Prefix Tree) (Medium) ⭐
