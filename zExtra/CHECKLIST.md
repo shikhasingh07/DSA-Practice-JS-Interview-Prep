@@ -384,7 +384,7 @@
 - [x] 677. Map Sum Pairs (Medium)
 
 ### Hard
-- [ ] 212. Word Search II (Hard) ⭐
+- [x] 212. Word Search II (Hard) ⭐
 - [ ] 745. Prefix and Suffix Search (Hard)
 
 ---
