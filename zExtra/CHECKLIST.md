@@ -385,7 +385,7 @@
 
 ### Hard
 - [x] 212. Word Search II (Hard) ⭐
-- [ ] 745. Prefix and Suffix Search (Hard)
+- [x] 745. Prefix and Suffix Search (Hard)
 
 ---
 ## Heap / Priority Queue
