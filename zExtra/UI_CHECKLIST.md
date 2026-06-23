@@ -27,6 +27,7 @@
 - [x] useQuery — URL query param state
 - [x] useRenderFirst — detect if first render
 - [x] useTimeOut — setTimeout with cleanup
+- [x] useObject — POJO state with merge + validation
 
 ### Pending
 - [ ] useThrottle — limit function call frequency
