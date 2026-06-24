@@ -392,13 +392,13 @@
 > After Trie
 
 ### Concepts to learn first
-- [ ] Min Heap vs Max Heap
+- [x] Min Heap vs Max Heap
 - [ ] Insert, remove, heapify
 - [ ] Top K pattern
 
 ### Easy
-- [ ] 703. Kth Largest Element in a Stream (Easy)
-- [ ] 1046. Last Stone Weight (Easy)
+- [x] 703. Kth Largest Element in a Stream (Easy)
+- [x] 1046. Last Stone Weight (Easy)
 
 ### Medium
 - [ ] 215. Kth Largest Element in an Array (Medium) ⭐
