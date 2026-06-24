@@ -3,11 +3,14 @@ import { useState, useRef, useEffect } from "react";
 const useThrottle = (value, interval = 500) => {
   const [throttledValue, setThrottledValue] = useState(value);
   const last = useRef(null);
-  const lastPublishedAt = useRef(Date.now());
+  const lastPublishedAt = useRef(null);
 
   useEffect(() => {
     const now = Date.now();
-    const remaining = interval - (now - lastPublishedAt.current);
+    const remaining =
+      lastPublishedAt.current == null
+        ? 0
+        : interval - (now - lastPublishedAt.current);
 
     if (remaining <= 0) {
       setThrottledValue(value);
