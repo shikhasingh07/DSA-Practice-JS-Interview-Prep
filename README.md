@@ -18,10 +18,10 @@
 | Prefix Sum | 14 | ✅ Done |
 | Binary Search | 28 | ✅ Done |
 | Strings | 16 | ✅ Done (5 deferred → after DP) |
-| Linked List | 0/13 | 🔄 In Progress |
-| Trees | 0/17 | 🔜 Next |
-| Trie | 0/7 | 🔜 Next |
-| Heap | 0/7 | 🔜 Next |
+| Linked List | 13/13 | ✅ Done |
+| Trees | 21/21 | ✅ Done |
+| Trie | 9/9 | ✅ Done |
+| Heap | 2/7 | 🔄 In Progress |
 | Backtracking | 0/9 | 🔜 Next |
 | Sorting | 0/3 | 🔜 Next |
 | Bit Manipulation | 0/8 | 🔜 Next |
@@ -35,8 +35,9 @@
 | JS Utility Functions (Easy) | 15+ | ✅ Done |
 | JS Advanced (Async, OOP, DOM) | 20+ | ✅ Done |
 | Polyfills | 10 | ✅ Done |
-| React Hooks | 9+ | 🔄 In Progress |
-| Machine Coding | 0 | 🔜 Next |
+| React Hooks | 22+ | ✅ Done |
+| Machine Coding (Components) | 6+ | 🔄 In Progress |
+| JS Utilities (Hard) | 5+ | ✅ Done |
 
 ---
 
