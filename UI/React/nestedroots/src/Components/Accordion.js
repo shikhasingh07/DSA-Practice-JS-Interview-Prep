@@ -11,8 +11,11 @@ export default function Accordion({ sections }) {
         return (
           <div className="accordion-item" key={value}>
             <button
+              id={value}
               className="accordion-item-title"
               type="button"
+              aria-expanded={isExpanded}
+              aria-controls={`panel-${value}`}
               onClick={() => {
                 const newOpenSections = new Set(openSections);
                 newOpenSections.has(value)
@@ -32,7 +35,13 @@ export default function Accordion({ sections }) {
                   .join(" ")}
               />
             </button>
-            <div className="accordion-item-contents" hidden={!isExpanded}>
+            <div
+              id={`panel-${value}`}
+              className="accordion-item-contents"
+              role="region"
+              aria-labelledby={value}
+              hidden={!isExpanded}
+            >
               {contents}
             </div>
           </div>
