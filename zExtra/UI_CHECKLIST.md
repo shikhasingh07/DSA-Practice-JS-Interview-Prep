@@ -28,9 +28,9 @@
 - [x] useRenderFirst — detect if first render
 - [x] useTimeOut — setTimeout with cleanup
 - [x] useObject — POJO state with merge + validation
+- [x] useThrottle — interval-based value throttling with setTimeout
 
 ### Pending
-- [ ] useThrottle — limit function call frequency
 - [ ] useLocalStorage — sync state with localStorage
 - [ ] useIntersectionObserver — element visibility detection
 - [ ] useFetch — async data fetching with loading/error state
