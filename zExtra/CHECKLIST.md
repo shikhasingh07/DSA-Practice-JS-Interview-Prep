@@ -408,7 +408,7 @@
 - [x] 355. Design Twitter (Medium)
 
 ### Hard
-- [ ] 295. Find Median from Data Stream (Hard) ⭐
+- [x] 295. Find Median from Data Stream (Hard) ⭐
 - [x] 502. IPO (Hard) (done in Greedy)
 
 ---
