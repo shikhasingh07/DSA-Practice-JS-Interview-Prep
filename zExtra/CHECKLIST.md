@@ -374,7 +374,7 @@
 ### Concepts to learn first
 - [x] Trie node structure (children map + isEnd flag)
 - [x] Insert, Search, StartsWith operations
-- [] When to use Trie vs HashMap
+- [x] When to use Trie vs HashMap
 
 ### Medium
 - [x] 208. Implement Trie (Prefix Tree) (Medium) ⭐
@@ -393,7 +393,7 @@
 
 ### Concepts to learn first
 - [x] Min Heap vs Max Heap
-- [ ] Insert, remove, heapify
+- [x] Insert, remove, heapify
 - [ ] Top K pattern
 
 ### Easy
@@ -401,15 +401,15 @@
 - [x] 1046. Last Stone Weight (Easy)
 
 ### Medium
-- [ ] 215. Kth Largest Element in an Array (Medium) ⭐
-- [ ] 973. K Closest Points to Origin (Medium)
-- [ ] 1985. Find the Kth Largest Integer in the Array (Medium)
-- [ ] 621. Task Scheduler (Medium) ⭐ (done in Greedy)
-- [ ] 355. Design Twitter (Medium)
+- [x] 215. Kth Largest Element in an Array (Medium) ⭐
+- [x] 973. K Closest Points to Origin (Medium)
+- [x] 1985. Find the Kth Largest Integer in the Array (Medium)
+- [x] 621. Task Scheduler (Medium) ⭐ (done in Greedy)
+- [x] 355. Design Twitter (Medium)
 
 ### Hard
 - [ ] 295. Find Median from Data Stream (Hard) ⭐
-- [ ] 502. IPO (Hard) (done in Greedy)
+- [x] 502. IPO (Hard) (done in Greedy)
 
 ---
 ## Backtracking
