@@ -503,7 +503,7 @@
 ### Medium
 
 - [x] 78. Subsets (Medium)
-- [ ] 39. Combination Sum (Medium)
+- [x] 39. Combination Sum (Medium)
 - [ ] 46. Permutations (Medium)
 - [ ] 90. Subsets II (Medium)
 - [ ] 40. Combination Sum II (Medium)
