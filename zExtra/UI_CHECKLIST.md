@@ -31,10 +31,11 @@
 - [x] useThrottle — interval-based value throttling with setTimeout
 
 ### Pending
+- [x] useStep — multi-step counter with next/prev/reset/setStep
 - [ ] useLocalStorage — sync state with localStorage
 - [ ] useIntersectionObserver — element visibility detection
 - [ ] useFetch — async data fetching with loading/error state
-- [ ] useWindowSize — track window width/height
+- [x] useWindowSize — track window width/height
 
 ---
 
@@ -108,7 +109,7 @@
 - [x] TableOfContents — generate TOC from DOM
 
 ### Pending
-- [ ] unionBy — merge arrays by key, deduplicate ⭐
+- [x] unionBy — merge arrays by key, deduplicate ⭐
 - [ ] throttle — lastCall timestamp check
 - [ ] flatten — deep flatten (done via flat polyfill)
 - [ ] groupBy — group array items by key
