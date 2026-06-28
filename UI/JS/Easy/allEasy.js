@@ -261,7 +261,7 @@ function sum(value) {
   let total = value;
   return function inner(arg) {
     if (arg !== undefined) {
-      return sum(total + arg); 
+      return sum(total + arg);
     } else {
       return total;
     }
@@ -298,4 +298,13 @@ function readingOrder(elements) {
   return elements.slice()
     .sort((a, b) => a.y - b.y || a.x - b.x)
     .map((e) => e.id);
+}
+
+function contains(container, contained) {
+  if (!contained || contained.nodeType !== 1) return false;
+  while (contained) {
+    contained = contained.parentNode;
+    if (contained === container) return true;
+  }
+  return false;
 }
