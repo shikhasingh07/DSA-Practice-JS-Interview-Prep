@@ -506,7 +506,7 @@
 - [x] 39. Combination Sum (Medium)
 - [ ] 46. Permutations (Medium)
 - [ ] 90. Subsets II (Medium)
-- [ ] 40. Combination Sum II (Medium)
+- [x] 40. Combination Sum II (Medium)
 - [ ] 47. Permutations II (Medium)
 - [ ] 79. Word Search (Medium)
 
