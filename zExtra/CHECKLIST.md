@@ -499,12 +499,13 @@
 ### Extra (done before checklist)
 
 - [x] 1863. Sum of All Subset XOR Totals (Easy)
+- [x] 77. Combinations (Medium)
 
 ### Medium
 
 - [x] 78. Subsets (Medium)
 - [x] 39. Combination Sum (Medium)
-- [ ] 46. Permutations (Medium)
+- [x] 46. Permutations (Medium)
 - [ ] 90. Subsets II (Medium)
 - [x] 40. Combination Sum II (Medium)
 - [ ] 47. Permutations II (Medium)
