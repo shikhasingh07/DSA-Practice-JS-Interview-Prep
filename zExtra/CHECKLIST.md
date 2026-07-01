@@ -494,7 +494,7 @@
 ### Concepts to learn first
 
 - [x] Choose → Explore → Unchoose template
-- [ ] When to prune (avoid duplicates)
+- [x] When to prune (avoid duplicates)
 
 ### Extra (done before checklist)
 
@@ -509,7 +509,7 @@
 - [x] 90. Subsets II (Medium)
 - [x] 40. Combination Sum II (Medium)
 - [x] 47. Permutations II (Medium)
-- [ ] 79. Word Search (Medium)
+- [x] 79. Word Search (Medium)
 
 ### Hard
 
