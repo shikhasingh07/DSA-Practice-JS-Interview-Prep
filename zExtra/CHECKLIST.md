@@ -515,8 +515,10 @@
 
 ### Hard
 
-- [ ] 51. N-Queens (Hard)
-- [ ] 37. Sudoku Solver (Hard)
+- [x] 51. N-Queens (Hard)
+- [x] 52. N-Queens II (Hard)
+- [x] 17. Letter Combinations of a Phone Number (Medium)
+- [x] 37. Sudoku Solver (Hard)
 
 ## Dynamic Programming
 
