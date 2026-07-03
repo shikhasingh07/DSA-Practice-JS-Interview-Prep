@@ -500,6 +500,8 @@
 
 - [x] 1863. Sum of All Subset XOR Totals (Easy)
 - [x] 77. Combinations (Medium)
+- [x] 22. Generate Parentheses (Medium)
+- [x] 131. Palindrome Partitioning (Medium)
 
 ### Medium
 
