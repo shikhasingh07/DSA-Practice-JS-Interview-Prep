@@ -532,8 +532,8 @@
 
 ### Easy
 
-- [ ] 70. Climbing Stairs (Easy)
-- [ ] 746. Min Cost Climbing Stairs (Easy)
+- [x] 70. Climbing Stairs (Easy)
+- [x] 746. Min Cost Climbing Stairs (Easy)
 - [ ] 198. House Robber (Easy)
 
 ### Medium — 1D DP
