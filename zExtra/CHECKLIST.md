@@ -526,7 +526,7 @@
 
 ### Concepts to learn first
 
-- [ ] Memoization (top-down)
+- [x] Memoization (top-down)
 - [ ] Tabulation (bottom-up)
 - [ ] Identify subproblem + recurrence relation
 
@@ -538,7 +538,8 @@
 
 ### Medium — 1D DP
 
-- [ ] 213. House Robber II (Medium)
+- [x] 213. House Robber II (Medium)
+- [x] 64. Minimum Path Sum (Medium)
 - [ ] 5. Longest Palindromic Substring (Medium)
 - [ ] 647. Palindromic Substrings (Medium)
 - [ ] 91. Decode Ways (Medium)

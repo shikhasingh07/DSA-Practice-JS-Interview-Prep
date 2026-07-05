@@ -1,3 +1,22 @@
+/**
+ * 🗺️ One Path to Rule Them All — Minimum Path Sum
+ *
+ * # Intuition
+ * At each cell, you can only arrive from above or from the left.
+ * So the minimum cost to reach (i,j) is: grid[i][j] + min(cost from top, cost from left).
+ * Classic top-down DP — start from bottom-right, recurse back to (0,0).
+ *
+ * # Approach
+ * 1. dp(i, j) = min cost to reach cell (i, j)
+ * 2. Out of bounds → Infinity (invalid path, never chosen by min)
+ * 3. Base case: (0,0) → grid[0][0]
+ * 4. Recurrence: grid[i][j] + min(dp(i-1, j), dp(i, j-1))
+ * 5. Memoize in 2D array filled with -1
+ *
+ * # Complexity
+ * - Time: O(m × n) — each cell computed once
+ * - Space: O(m × n) — memo array + recursion stack
+ */
 function dp(grid, i, j, arr) {
     if (i < 0 || j < 0) return Infinity;
     if (i === 0 && j === 0) return grid[0][0];
