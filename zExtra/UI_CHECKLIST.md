@@ -36,6 +36,7 @@
 - [ ] useIntersectionObserver — element visibility detection
 - [ ] useFetch — async data fetching with loading/error state
 - [x] useWindowSize — track window width/height
+- [x] useInputControl — controlled input with touched/dirty/different tracking
 
 ---
 
