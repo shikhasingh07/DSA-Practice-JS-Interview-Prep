@@ -540,9 +540,9 @@
 
 - [x] 213. House Robber II (Medium)
 - [x] 64. Minimum Path Sum (Medium)
-- [ ] 5. Longest Palindromic Substring (Medium)
-- [ ] 647. Palindromic Substrings (Medium)
-- [ ] 91. Decode Ways (Medium)
+- [x] 5. Longest Palindromic Substring (Medium)
+- [x] 647. Palindromic Substrings (Medium)
+- [x] 91. Decode Ways (Medium)
 - [ ] 322. Coin Change (Medium) ⭐
 - [ ] 152. Maximum Product Subarray (Medium)
 - [ ] 139. Word Break (Medium)
