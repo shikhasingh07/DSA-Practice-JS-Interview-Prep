@@ -24,3 +24,4 @@ function delegateEvent(container, eventName, selector, listener) {
     container.removeEventListener(eventName, delegatedListener);
   };
 }
+export default delegateEvent;
