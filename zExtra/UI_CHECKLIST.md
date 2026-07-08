@@ -134,7 +134,7 @@
 
 ### Pending
 - [ ] Array.prototype.map polyfill
-- [ ] Promise.allSettled polyfill
+- [x] Promise.allSettled polyfill
 - [ ] LRU Cache implementation ⭐ Adobe asks this
 
 ---
