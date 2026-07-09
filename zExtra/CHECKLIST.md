@@ -546,7 +546,7 @@
 - [x] 322. Coin Change (Medium) ⭐
 - [x] 152. Maximum Product Subarray (Medium)
 - [x] 139. Word Break (Medium)
-- [ ] 300. Longest Increasing Subsequence (Medium) ⭐
+- [x] 300. Longest Increasing Subsequence (Medium) ⭐
 
 ### Medium — 2D DP
 
