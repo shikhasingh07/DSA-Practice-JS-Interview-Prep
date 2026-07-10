@@ -527,43 +527,62 @@
 ### Concepts to learn first
 
 - [x] Memoization (top-down)
-- [ ] Tabulation (bottom-up)
-- [ ] Identify subproblem + recurrence relation
+- [x] Tabulation (bottom-up)
+- [x] Identify subproblem + recurrence relation
 
-### Easy
+### Pattern 1 — Linear DP ✅ Done
+> dp[i] depends on dp[i-1] or dp[i-2]
 
 - [x] 70. Climbing Stairs (Easy)
 - [x] 746. Min Cost Climbing Stairs (Easy)
 - [x] 198. House Robber (Easy)
-
-### Medium — 1D DP
-
 - [x] 213. House Robber II (Medium)
-- [x] 64. Minimum Path Sum (Medium)
-- [x] 5. Longest Palindromic Substring (Medium)
-- [x] 647. Palindromic Substrings (Medium)
 - [x] 91. Decode Ways (Medium)
-- [x] 322. Coin Change (Medium) ⭐
 - [x] 152. Maximum Product Subarray (Medium)
-- [x] 139. Word Break (Medium)
 - [x] 300. Longest Increasing Subsequence (Medium) ⭐
 
-### Medium — 2D DP
+### Pattern 2 — Grid DP
+> dp[i][j] depends on dp[i-1][j] or dp[i][j-1]
 
+- [x] 64. Minimum Path Sum (Medium)
 - [ ] 62. Unique Paths (Medium)
-- [ ] 1143. Longest Common Subsequence (Medium)
-- [ ] 309. Best Time to Buy and Sell Stock with Cooldown (Medium)
-- [ ] 518. Coin Change II (Medium)
-- [ ] 494. Target Sum (Medium)
-- [ ] 97. Interleaving String (Medium)
+- [ ] 63. Unique Paths II — obstacles (Medium)
+- [ ] 221. Maximal Square (Medium) ⭐
 - [ ] 329. Longest Increasing Path in a Matrix (Medium)
+
+### Pattern 3 — Unbounded Knapsack
+> Same item multiple times — forward loop
+
+- [x] 322. Coin Change (Medium) ⭐
+- [ ] 518. Coin Change II (Medium)
+- [ ] 377. Combination Sum IV (Medium)
+
+### Pattern 4 — 0/1 Knapsack
+> Each item once — backward loop
+
+- [ ] 416. Partition Equal Subset Sum (Medium) ⭐
+- [ ] 494. Target Sum (Medium)
+- [ ] 1049. Last Stone Weight II (Medium)
+- [ ] 474. Ones and Zeroes (Medium)
+
+### Pattern 5 — Subsequence DP
+> dp[i][j] = compare s1[i] vs s2[j]
+
+- [x] 5. Longest Palindromic Substring (Medium)
+- [x] 647. Palindromic Substrings (Medium)
+- [x] 139. Word Break (Medium)
+- [ ] 1143. Longest Common Subsequence (Medium) ⭐
+- [ ] 516. Longest Palindromic Subsequence (Medium)
 - [ ] 1312. Minimum Insertion Steps to Make a String Palindrome (Medium)
-
-### Hard
-
-- [ ] 72. Edit Distance (Hard)
-- [ ] 312. Burst Balloons (Hard)
+- [ ] 115. Distinct Subsequences (Hard)
+- [ ] 97. Interleaving String (Medium)
+- [ ] 72. Edit Distance (Hard) ⭐
 - [ ] 10. Regular Expression Matching (Hard)
+
+### Pattern 6 — Other DP
+- [ ] 309. Best Time to Buy and Sell Stock with Cooldown (Medium)
+- [ ] 123. Best Time to Buy and Sell Stock III (Hard)
+- [ ] 312. Burst Balloons (Hard)
 
 ---
 
