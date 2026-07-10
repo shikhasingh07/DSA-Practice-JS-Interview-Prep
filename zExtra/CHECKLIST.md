@@ -560,7 +560,7 @@
 ### Pattern 4 — 0/1 Knapsack
 > Each item once — backward loop
 
-- [ ] 416. Partition Equal Subset Sum (Medium) ⭐
+- [x] 416. Partition Equal Subset Sum (Medium) ⭐
 - [ ] 494. Target Sum (Medium)
 - [ ] 1049. Last Stone Weight II (Medium)
 - [ ] 474. Ones and Zeroes (Medium)
