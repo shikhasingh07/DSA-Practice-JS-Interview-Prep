@@ -1,3 +1,23 @@
+/**
+ * 🏠 Rob the Number Line — Delete and Earn
+ *
+ * # Intuition
+ * If you pick number x, you earn x points but must delete all x-1 and x+1.
+ * This is exactly House Robber — adjacent numbers can't both be picked!
+ * Transform: points[x] = x * count(x), then apply House Robber on values 0..max.
+ *
+ * # Approach
+ * 1. Build map: map[x] = total points earned by taking all x's
+ * 2. max = max value in nums
+ * 3. Top-down DP from max → 0:
+ *    - take = dp(max-2) + map[max]
+ *    - skip = dp(max-1)
+ *    - dp[max] = max(take, skip)
+ *
+ * # Complexity
+ * - Time: O(n + max)
+ * - Space: O(max)
+ */
 function dp(nums, max, map, arr) {
 
     if (max < 0) return 0;
