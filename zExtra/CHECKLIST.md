@@ -541,7 +541,13 @@
 - [x] 152. Maximum Product Subarray (Medium)
 - [x] 300. Longest Increasing Subsequence (Medium) ⭐
 - [x] 740. Delete and Earn (Medium) — House Robber on number values
-- [x] 1105. Filling Bookcase Shelves (Medium) — Lookback DP
+
+### Pattern 1.5 — Lookback DP
+> Har i ke liye j peeche jaao, condition pe break karo
+
+- [x] 1105. Filling Bookcase Shelves (Medium)
+- [ ] 368. Largest Divisible Subset (Medium)
+- [ ] 1235. Maximum Profit in Job Scheduling (Hard) ⭐
 
 ### Pattern 2 — Grid DP
 > dp[i][j] depends on dp[i-1][j] or dp[i][j-1]
