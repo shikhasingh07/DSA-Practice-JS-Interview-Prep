@@ -541,6 +541,7 @@
 - [x] 152. Maximum Product Subarray (Medium)
 - [x] 300. Longest Increasing Subsequence (Medium) ⭐
 - [x] 740. Delete and Earn (Medium) — House Robber on number values
+- [x] 1105. Filling Bookcase Shelves (Medium) — Lookback DP
 
 ### Pattern 2 — Grid DP
 > dp[i][j] depends on dp[i-1][j] or dp[i][j-1]
