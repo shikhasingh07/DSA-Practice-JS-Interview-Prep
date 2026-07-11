@@ -563,7 +563,7 @@
 
 - [x] 322. Coin Change (Medium) ⭐
 - [ ] 518. Coin Change II (Medium)
-- [ ] 377. Combination Sum IV (Medium)
+- [x] 377. Combination Sum IV (Medium)
 
 ### Pattern 4 — 0/1 Knapsack
 > Each item once — backward loop
