@@ -541,6 +541,7 @@
 - [x] 152. Maximum Product Subarray (Medium)
 - [x] 300. Longest Increasing Subsequence (Medium) ⭐
 - [x] 740. Delete and Earn (Medium) — House Robber on number values
+- [x] 2369. Check if There is a Valid Partition For The Array (Medium)
 
 ### Pattern 1.5 — Lookback DP
 > Har i ke liye j peeche jaao, condition pe break karo
