@@ -556,8 +556,8 @@
 - [x] 64. Minimum Path Sum (Medium)
 - [x] 62. Unique Paths (Medium)
 - [x] 63. Unique Paths II — obstacles (Medium)
-- [ ] 221. Maximal Square (Medium) ⭐
-- [ ] 329. Longest Increasing Path in a Matrix (Medium)
+- [x] 221. Maximal Square (Medium) ⭐
+- [x] 329. Longest Increasing Path in a Matrix (Medium)
 
 ### Pattern 3 — Unbounded Knapsack
 > Same item multiple times — forward loop
