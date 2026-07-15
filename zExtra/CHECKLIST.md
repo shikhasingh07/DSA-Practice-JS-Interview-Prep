@@ -554,8 +554,8 @@
 > dp[i][j] depends on dp[i-1][j] or dp[i][j-1]
 
 - [x] 64. Minimum Path Sum (Medium)
-- [ ] 62. Unique Paths (Medium)
-- [ ] 63. Unique Paths II — obstacles (Medium)
+- [x] 62. Unique Paths (Medium)
+- [x] 63. Unique Paths II — obstacles (Medium)
 - [ ] 221. Maximal Square (Medium) ⭐
 - [ ] 329. Longest Increasing Path in a Matrix (Medium)
 
