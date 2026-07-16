@@ -1,14 +1,14 @@
 # DSA + Frontend Interview Prep — JavaScript
 
 > **Senior Frontend Developer (4.5 YOE)** — systematic interview preparation targeting top tech companies.
-> 340+ problems solved across LeetCode, NeetCode, and GreatFrontEnd.
+> 450+ problems solved across LeetCode, NeetCode, and GreatFrontEnd.
 > Problems organized by **pattern**, not just topic — building intuition for unseen problems.
 
 **Keywords:** LeetCode JavaScript · Data Structures Algorithms · Frontend Interview · React Interview · System Design · NeetCode · GreatFrontEnd · JavaScript Polyfills · React Custom Hooks · Dynamic Programming · Graph Algorithms · Senior Frontend Engineer
 
 ---
 
-## DSA Progress — 340+ Problems
+## DSA Progress — 450+ Problems
 
 > All solutions in **JavaScript (ES6+)**. Pattern-first approach — each topic mastered before moving to the next.
 

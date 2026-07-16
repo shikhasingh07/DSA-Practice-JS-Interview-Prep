@@ -571,7 +571,7 @@
 > Each item once — backward loop
 
 - [x] 416. Partition Equal Subset Sum (Medium) ⭐
-- [ ] 494. Target Sum (Medium)
+- [x] 494. Target Sum (Medium)
 - [ ] 1049. Last Stone Weight II (Medium)
 - [ ] 474. Ones and Zeroes (Medium)
 
