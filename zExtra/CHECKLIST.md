@@ -572,7 +572,7 @@
 
 - [x] 416. Partition Equal Subset Sum (Medium) ⭐
 - [x] 494. Target Sum (Medium)
-- [ ] 1049. Last Stone Weight II (Medium)
+- [x] 1049. Last Stone Weight II (Medium)
 - [ ] 474. Ones and Zeroes (Medium)
 
 ### Pattern 5 — Subsequence DP
