@@ -563,7 +563,7 @@
 > Same item multiple times — forward loop
 
 - [x] 322. Coin Change (Medium) ⭐
-- [ ] 518. Coin Change II (Medium)
+- [x] 518. Coin Change II (Medium)
 - [x] 377. Combination Sum IV (Medium)
 - [x] 279. Perfect Squares (Medium)
 
