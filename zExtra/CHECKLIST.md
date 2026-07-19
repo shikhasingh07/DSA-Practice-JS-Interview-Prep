@@ -547,7 +547,7 @@
 > Har i ke liye j peeche jaao, condition pe break karo
 
 - [x] 1105. Filling Bookcase Shelves (Medium)
-- [ ] 368. Largest Divisible Subset (Medium)
+- [x] 368. Largest Divisible Subset (Medium)
 - [ ] 1235. Maximum Profit in Job Scheduling (Hard) ⭐
 
 ### Pattern 2 — Grid DP
