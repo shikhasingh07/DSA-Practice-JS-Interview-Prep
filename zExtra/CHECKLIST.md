@@ -548,7 +548,7 @@
 
 - [x] 1105. Filling Bookcase Shelves (Medium)
 - [x] 368. Largest Divisible Subset (Medium)
-- [ ] 1235. Maximum Profit in Job Scheduling (Hard) ⭐
+- [x] 1235. Maximum Profit in Job Scheduling (Hard) ⭐
 
 ### Pattern 2 — Grid DP
 > dp[i][j] depends on dp[i-1][j] or dp[i][j-1]
