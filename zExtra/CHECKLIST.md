@@ -581,9 +581,9 @@
 - [x] 5. Longest Palindromic Substring (Medium)
 - [x] 647. Palindromic Substrings (Medium)
 - [x] 139. Word Break (Medium)
-- [ ] 1143. Longest Common Subsequence (Medium) ⭐
-- [ ] 516. Longest Palindromic Subsequence (Medium)
-- [ ] 1312. Minimum Insertion Steps to Make a String Palindrome (Medium)
+- [x] 1143. Longest Common Subsequence (Medium) ⭐
+- [x] 516. Longest Palindromic Subsequence (Medium)
+- [x] 1312. Minimum Insertion Steps to Make a String Palindrome (Medium)
 - [ ] 115. Distinct Subsequences (Hard)
 - [ ] 97. Interleaving String (Medium)
 - [ ] 72. Edit Distance (Hard) ⭐
