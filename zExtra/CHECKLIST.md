@@ -584,7 +584,7 @@
 - [x] 1143. Longest Common Subsequence (Medium) ⭐
 - [x] 516. Longest Palindromic Subsequence (Medium)
 - [x] 1312. Minimum Insertion Steps to Make a String Palindrome (Medium)
-- [ ] 115. Distinct Subsequences (Hard)
+- [x] 115. Distinct Subsequences (Hard)
 - [ ] 97. Interleaving String (Medium)
 - [ ] 72. Edit Distance (Hard) ⭐
 - [ ] 10. Regular Expression Matching (Hard)
