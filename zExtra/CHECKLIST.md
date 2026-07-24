@@ -585,8 +585,8 @@
 - [x] 516. Longest Palindromic Subsequence (Medium)
 - [x] 1312. Minimum Insertion Steps to Make a String Palindrome (Medium)
 - [x] 115. Distinct Subsequences (Hard)
-- [ ] 97. Interleaving String (Medium)
-- [ ] 72. Edit Distance (Hard) ⭐
+- [x] 97. Interleaving String (Medium)
+- [x] 72. Edit Distance (Hard) ⭐
 - [ ] 10. Regular Expression Matching (Hard)
 
 ### Pattern 6 — Other DP
