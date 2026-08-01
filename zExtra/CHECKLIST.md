@@ -602,31 +602,48 @@
 
 ### Concepts to learn first
 
-- [ ] Adjacency list vs matrix
-- [ ] BFS (shortest path)
-- [ ] DFS (explore all paths)
-- [ ] Union Find (Disjoint Set)
-- [ ] Topological Sort
+- [x] Adjacency list vs matrix
+- [x] Undirected vs Directed graph
+- [x] DFS on Grid (tree DFS ka extended version — 4 directions)
+- [ ] BFS on Grid (queue use karo — shortest path)
+- [ ] DFS on Adjacency List
+- [ ] BFS on Adjacency List
 
-### Medium
 
-- [ ] 200. Number of Islands (Medium) ⭐
-- [ ] 133. Clone Graph (Medium)
-- [ ] 695. Max Area of Island (Medium)
+### Pattern 1 — DFS on Grid (Undirected)
+> Grid = graph, cell = node, adjacent cells = edges
+
+- [x] 200. Number of Islands (Medium) ⭐
+- [x] 695. Max Area of Island (Medium)
 - [ ] 417. Pacific Atlantic Water Flow (Medium)
 - [ ] 130. Surrounded Regions (Medium)
+- [ ] detect cycle 
+
+### Pattern 2 — BFS on Grid
+> BFS = level by level, queue use karo
+
 - [ ] 994. Rotting Oranges (Medium)
-- [ ] 207. Course Schedule (Medium) ⭐ Topological Sort
-- [ ] 210. Course Schedule II (Medium)
-- [ ] 684. Redundant Connection (Medium) Union Find
+- [ ] 127. Word Ladder (Hard)
+
+### Pattern 3 — DFS/BFS on Adjacency List (Undirected)
+
+- [ ] 133. Clone Graph (Medium)
 - [ ] 323. Number of Connected Components (Medium)
 - [ ] 261. Graph Valid Tree (Medium)
+- [ ] 684. Redundant Connection (Medium) — Union Find
+- [ ] detect cycle 
 
-### Hard
+### Pattern 4 — Topological Sort (Directed)
+> Directed graph, dependency order
 
-- [ ] 127. Word Ladder (Hard)
+- [ ] 207. Course Schedule (Medium) ⭐
+- [ ] 210. Course Schedule II (Medium)
 - [ ] 269. Alien Dictionary (Hard)
-- [ ] 743. Network Delay Time (Hard) Dijkstra
+
+### Pattern 5 — Shortest Path (Weighted) 
+> Dijkstra algorithm
+
+- [ ] 743. Network Delay Time (Hard)
 - [ ] 778. Swim in Rising Water (Hard)
 - [ ] 787. Cheapest Flights Within K Stops (Hard)
 
