@@ -606,46 +606,56 @@
 - [x] Undirected vs Directed graph
 - [x] DFS on Grid (tree DFS ka extended version — 4 directions)
 - [ ] BFS on Grid (queue use karo — shortest path)
-- [ ] DFS on Adjacency List
+- [ ] DFS on Adjacency List (build graph from edges)
 - [ ] BFS on Adjacency List
-
+- [ ] Cycle detection (undirected + directed)
+- [ ] Union Find template
+- [ ] Topological Sort template (BFS + indegree)
 
 ### Pattern 1 — DFS on Grid (Undirected)
 > Grid = graph, cell = node, adjacent cells = edges
+> Warm up: 733 → 200 → 695 → 417 → 130
 
+- [ ] 733. Flood Fill (Easy) — simplest DFS on grid
 - [x] 200. Number of Islands (Medium) ⭐
 - [x] 695. Max Area of Island (Medium)
-- [ ] 417. Pacific Atlantic Water Flow (Medium)
+- [ ] 1020. Number of Enclaves (Medium) — boundary DFS
+- [ ] 417. Pacific Atlantic Water Flow (Medium) ⭐
 - [ ] 130. Surrounded Regions (Medium)
-- [ ] detect cycle 
 
 ### Pattern 2 — BFS on Grid
-> BFS = level by level, queue use karo
+> BFS = level by level, shortest path
+> Warm up: 733 BFS version → 994 → 542 → 127
 
-- [ ] 994. Rotting Oranges (Medium)
-- [ ] 127. Word Ladder (Hard)
+- [ ] 994. Rotting Oranges (Medium) ⭐ — multi-source BFS
+- [ ] 542. 01 Matrix (Medium) — multi-source BFS
+- [ ] 1091. Shortest Path in Binary Matrix (Medium)
+- [ ] 127. Word Ladder (Hard) ⭐
 
 ### Pattern 3 — DFS/BFS on Adjacency List (Undirected)
+> Build graph first, then traverse
+> Warm up: 547 → 133 → 323 → 261 → 684
 
-- [ ] 133. Clone Graph (Medium)
+- [ ] 547. Number of Provinces (Medium) — simplest adjacency list DFS
+- [ ] 133. Clone Graph (Medium) ⭐ — DFS + HashMap
 - [ ] 323. Number of Connected Components (Medium)
 - [ ] 261. Graph Valid Tree (Medium)
 - [ ] 684. Redundant Connection (Medium) — Union Find
-- [ ] detect cycle 
 
 ### Pattern 4 — Topological Sort (Directed)
-> Directed graph, dependency order
+> Directed graph, dependency order (BFS + indegree)
+> Warm up: 207 → 210 → 269
 
 - [ ] 207. Course Schedule (Medium) ⭐
-- [ ] 210. Course Schedule II (Medium)
+- [ ] 210. Course Schedule II (Medium) ⭐
 - [ ] 269. Alien Dictionary (Hard)
 
-### Pattern 5 — Shortest Path (Weighted) 
-> Dijkstra algorithm
+### Pattern 5 — Shortest Path (Weighted)
+> Dijkstra algorithm (min-heap + distances)
 
-- [ ] 743. Network Delay Time (Hard)
-- [ ] 778. Swim in Rising Water (Hard)
+- [ ] 743. Network Delay Time (Hard) ⭐ — classic Dijkstra
 - [ ] 787. Cheapest Flights Within K Stops (Hard)
+- [ ] 778. Swim in Rising Water (Hard)
 
 ---
 
