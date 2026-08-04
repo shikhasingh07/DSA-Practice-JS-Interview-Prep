@@ -616,10 +616,10 @@
 > Grid = graph, cell = node, adjacent cells = edges
 > Warm up: 733 → 200 → 695 → 417 → 130
 
-- [ ] 733. Flood Fill (Easy) — simplest DFS on grid
+- [x] 733. Flood Fill (Easy) — simplest DFS on grid
 - [x] 200. Number of Islands (Medium) ⭐
 - [x] 695. Max Area of Island (Medium)
-- [ ] 1020. Number of Enclaves (Medium) — boundary DFS
+- [x] 1020. Number of Enclaves (Medium) — boundary DFS
 - [ ] 417. Pacific Atlantic Water Flow (Medium) ⭐
 - [ ] 130. Surrounded Regions (Medium)
 
