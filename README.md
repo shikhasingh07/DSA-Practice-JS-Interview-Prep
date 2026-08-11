@@ -50,16 +50,27 @@
 
 ---
 
-## DP Patterns Covered
+## DP Patterns Covered ✅
 
 | Pattern | Problems | Examples |
 |---------|----------|---------|
 | Linear DP | 9 | Climbing Stairs, House Robber, LIS, Decode Ways |
-| Lookback DP | 1 | Filling Bookcase Shelves |
+| Lookback DP | 3 | Bookcase Shelves, Largest Divisible Subset, Job Scheduling |
 | Grid DP | 5 | Unique Paths, Maximal Square, Longest Increasing Path |
-| Unbounded Knapsack | 3 | Coin Change, Combination Sum IV, Perfect Squares |
-| 0/1 Knapsack | 1+ | Partition Equal Subset Sum, Target Sum |
-| Subsequence DP | 3 | Palindromic Substrings, Word Break, LCS |
+| Unbounded Knapsack | 4 | Coin Change, Coin Change II, Combination Sum IV |
+| 0/1 Knapsack | 4 | Partition Equal Subset Sum, Target Sum, Ones and Zeroes |
+| Subsequence DP | 10 | LCS, Edit Distance, Distinct Subsequences, Regex Matching |
+| State Machine DP | 3 | Stock Cooldown, Stock III, Burst Balloons |
+
+## Graph Patterns (In Progress 🔄)
+
+| Pattern | Done | Examples |
+|---------|------|---------|
+| DFS on Grid | 6/6 | Islands, Flood Fill, Pacific Atlantic, Surrounded Regions ✅ |
+| BFS on Grid | 2/4 | Rotting Oranges, 01 Matrix ✅ |
+| DFS/BFS Adjacency List | 0/5 | Provinces, Clone Graph, Connected Components |
+| Topological Sort | 0/3 | Course Schedule I & II |
+| Shortest Path (Dijkstra) | 0/3 | Network Delay, Cheapest Flights |
 
 ---
 
@@ -79,6 +90,10 @@ DSA/
 ├── Trie/                 # Prefix tree, autocomplete, word search
 ├── Heap/                 # Min/Max heap, Top-K, median stream
 ├── Backtracking/         # Subsets, permutations, N-Queens, Sudoku
+├── Graph/
+│   ├── undirected/       # DFS Grid: Islands, Flood Fill, Enclaves, Surrounded Regions
+│   ├── directed/         # Directed DFS Grid: Pacific Atlantic
+│   └── GridBFS/          # BFS Grid: Rotting Oranges, 01 Matrix
 ├── DP/
 │   ├── LinearDP/         # House Robber, LIS, Decode Ways
 │   ├── GridDP/           # Unique Paths, Maximal Square
