@@ -27,10 +27,10 @@
 | Trie (Prefix Tree) | 9 | ✅ Done |
 | Heap / Priority Queue | 7 | ✅ Done |
 | Backtracking | 15 | ✅ Done |
-| Dynamic Programming | 22/38 | 🔄 In Progress |
+| Dynamic Programming | 38/38 | ✅ Done |
+| Graphs (BFS/DFS/Union Find) | 8/16 | 🔄 In Progress |
 | Sorting Algorithms | 0/3 | 🔜 Next |
 | Bit Manipulation | 0/8 | 🔜 Next |
-| Graphs (BFS/DFS/Union Find) | 0/16 | 🔜 Next |
 
 ---
 
