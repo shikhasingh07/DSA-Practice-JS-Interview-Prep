@@ -605,8 +605,8 @@
 - [x] Adjacency list vs matrix
 - [x] Undirected vs Directed graph
 - [x] DFS on Grid (tree DFS ka extended version — 4 directions)
-- [ ] BFS on Grid (queue use karo — shortest path)
-- [ ] DFS on Adjacency List (build graph from edges)
+- [x] BFS on Grid (queue use karo — shortest path)
+- [x] DFS on Adjacency List (build graph from edges)
 - [ ] BFS on Adjacency List
 - [ ] Cycle detection (undirected + directed)
 - [ ] Union Find template
@@ -620,25 +620,25 @@
 - [x] 200. Number of Islands (Medium) ⭐
 - [x] 695. Max Area of Island (Medium)
 - [x] 1020. Number of Enclaves (Medium) — boundary DFS
-- [ ] 417. Pacific Atlantic Water Flow (Medium) ⭐
-- [ ] 130. Surrounded Regions (Medium)
+- [x] 417. Pacific Atlantic Water Flow (Medium) ⭐
+- [x] 130. Surrounded Regions (Medium)
 
 ### Pattern 2 — BFS on Grid
 > BFS = level by level, shortest path
 > Warm up: 733 BFS version → 994 → 542 → 127
 
-- [ ] 994. Rotting Oranges (Medium) ⭐ — multi-source BFS
-- [ ] 542. 01 Matrix (Medium) — multi-source BFS
-- [ ] 1091. Shortest Path in Binary Matrix (Medium)
-- [ ] 127. Word Ladder (Hard) ⭐
+- [x] 994. Rotting Oranges (Medium) ⭐ — multi-source BFS
+- [x] 542. 01 Matrix (Medium) — multi-source BFS
+- [x] 1091. Shortest Path in Binary Matrix (Medium)
+- [x] 127. Word Ladder (Hard) ⭐
 
 ### Pattern 3 — DFS/BFS on Adjacency List (Undirected)
 > Build graph first, then traverse
 > Warm up: 547 → 133 → 323 → 261 → 684
 
-- [ ] 547. Number of Provinces (Medium) — simplest adjacency list DFS
-- [ ] 133. Clone Graph (Medium) ⭐ — DFS + HashMap
-- [ ] 323. Number of Connected Components (Medium)
+- [x] 547. Number of Provinces (Medium) — simplest adjacency list DFS
+- [x] 133. Clone Graph (Medium) ⭐ — DFS + HashMap
+- [x] 323. Number of Connected Components (Medium)
 - [ ] 261. Graph Valid Tree (Medium)
 - [ ] 684. Redundant Connection (Medium) — Union Find
 
