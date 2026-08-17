@@ -639,8 +639,8 @@
 - [x] 547. Number of Provinces (Medium) — simplest adjacency list DFS
 - [x] 133. Clone Graph (Medium) ⭐ — DFS + HashMap
 - [x] 323. Number of Connected Components (Medium)
-- [ ] 261. Graph Valid Tree (Medium)
-- [ ] 684. Redundant Connection (Medium) — Union Find
+- [x] 261. Graph Valid Tree (Medium)
+- [x] 684. Redundant Connection (Medium) — Union Find
 
 ### Pattern 4 — Topological Sort (Directed)
 > Directed graph, dependency order (BFS + indegree)
