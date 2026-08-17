@@ -31,4 +31,4 @@ var validTree = (n, edges) => {
 }
 
 let n = 5, edges = [[0, 1], [0, 2], [0, 3], [1, 4]];
-console.log()
+console.log(validTree(n,edges));
