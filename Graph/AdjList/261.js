@@ -1,15 +1,21 @@
-function dfs(list, visit, i) {
-    if (visit.has(i)) {
+/**
+ * @param {number} n
+ * @param {number[][]} edges
+ * @return {boolean}
+ */
+function dfs(list, visit, i , parent) {
+   if (visit.has(i)) {
         return true;
     }
 
     visit.add(i);
     for (let neighbor of list[i]) {
-        if (!visit.has(neighbor)) dfs(list, visit, neighbor);
+        if (neighbor === parent) continue;
+        if (dfs(list, visit, neighbor, i)) return true; // ← i as parent
     }
 
-}
-var validTree = (n, edges) => {
+} 
+var validTree = function(n, edges) {
     if (edges.length !== n - 1) return false;
     let list = Array.from({ length: n }, () => []);
 
@@ -23,12 +29,9 @@ var validTree = (n, edges) => {
 
     for (let i = 0; i < n; i++) {
         if (!visit.has(i)) {
-            dfs(list, visit, i);
+            if (dfs(list, visit, i, -1)) return false;
+
         }
     }
-
     return visit.size === n;
-}
-
-let n = 5, edges = [[0, 1], [0, 2], [0, 3], [1, 4]];
-console.log(validTree(n,edges));
+};

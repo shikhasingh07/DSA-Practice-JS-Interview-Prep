@@ -646,8 +646,8 @@
 > Directed graph, dependency order (BFS + indegree)
 > Warm up: 207 → 210 → 269
 
-- [ ] 207. Course Schedule (Medium) ⭐
-- [ ] 210. Course Schedule II (Medium) ⭐
+- [x] 207. Course Schedule (Medium) ⭐
+- [x] 210. Course Schedule II (Medium) ⭐
 - [ ] 269. Alien Dictionary (Hard)
 
 ### Pattern 5 — Shortest Path (Weighted)
