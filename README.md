@@ -28,9 +28,9 @@
 | Heap / Priority Queue | 7 | ✅ Done |
 | Backtracking | 15 | ✅ Done |
 | Dynamic Programming | 38/38 | ✅ Done |
-| Graphs (BFS/DFS/Union Find) | 8/16 | 🔄 In Progress |
+| Graphs (BFS/DFS/Union Find) | 16/16 | ✅ Done |
+| Bit Manipulation | 1/8 | 🔄 In Progress |
 | Sorting Algorithms | 0/3 | 🔜 Next |
-| Bit Manipulation | 0/8 | 🔜 Next |
 
 ---
 
