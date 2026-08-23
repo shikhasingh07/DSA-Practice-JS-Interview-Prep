@@ -8,7 +8,7 @@ var hammingWeight = function (n) {
         n = n >> 1;
     }
 
-    console.log(number)
+    return number
 };
 
 console.log(hammingWeight(11))
